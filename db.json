@@ -41,5 +41,57 @@
       "todo": "카페에서 스터디",
       "desc": "코테 준비 1시간 30분, 정처기 실기 1시간 30분"
     }
+  ],
+  
+  "users": [
+    {
+      "id": 1, //로그인할 때 전역으로 둬야함
+      "email": "test@example.com",
+      "password": "1234",
+      "nickname": "김케이비",
+	    "joinDate": "date"
+    }
+  ],
+  
+  
+  "transactions": [
+    {
+      "id": 1,
+      "userId": 1,
+      "type": "income",
+      "date": "2024-01-15",
+      "category": "급여",
+      "title": "1월 급여",
+      "memo": "월급",
+      "amount": 3500000
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "type": "expense",
+      "date": "2024-01-15",
+      "category": "식비",
+      "title": "점심식사",
+      "memo": "회사 근처 식당",
+      "amount": 15000
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "Netflix",
+      "price": 17000,
+      "dueDate": 15,
+      "category": "구독"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "통신비",
+      "price": 50000,
+      "dueDate": 10,
+      "category": "고정지출"
+    }
   ]
 }
