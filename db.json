@@ -3889,1008 +3889,1006 @@
       "userId": "5",
       "id": 381
     },
-    [
-      {
-        "id": 1000,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-04-10",
-        "category": "식비",
-        "title": "병원 진료",
-        "memo": "간편결제",
-        "amount": 116367
-      },
-      {
-        "id": 1001,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-04-09",
-        "category": "식비",
-        "title": "지하철 이용",
-        "memo": "카드 결제",
-        "amount": 20997
-      },
-      {
-        "id": 1002,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-04-08",
-        "category": "의료",
-        "title": "기타 지출",
-        "memo": "앱 결제",
-        "amount": 107248
-      },
-      {
-        "id": 1003,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-04-06",
-        "category": "기타",
-        "title": "부수입",
-        "memo": "지인 거래",
-        "amount": 85918
-      },
-      {
-        "id": 1004,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-04-05",
-        "category": "기타",
-        "title": "지하철 이용",
-        "memo": "현금 사용",
-        "amount": 111752
-      },
-      {
-        "id": 1005,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-04-04",
-        "category": "주거",
-        "title": "의류 구매",
-        "memo": "현금 사용",
-        "amount": 79254
-      },
-      {
-        "id": 1006,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-04-03",
-        "category": "식비",
-        "title": "지하철 이용",
-        "memo": "간편결제",
-        "amount": 41929
-      },
-      {
-        "id": 1007,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-04-01",
-        "category": "쇼핑",
-        "title": "병원 진료",
-        "memo": "무통장 이체",
-        "amount": 88461
-      },
-      {
-        "id": 1008,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-30",
-        "category": "기타",
-        "title": "병원 진료",
-        "memo": "현금 사용",
-        "amount": 23633
-      },
-      {
-        "id": 1009,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-03-28",
-        "category": "급여",
-        "title": "월급",
-        "memo": "회사 급여",
-        "amount": 3200000
-      },
-      {
-        "id": 1010,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-03-28",
-        "category": "기타",
-        "title": "알바비",
-        "memo": "시급 정산",
-        "amount": 138726
-      },
-      {
-        "id": 1011,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-27",
-        "category": "주거",
-        "title": "점심 식사",
-        "memo": "무통장 이체",
-        "amount": 93132
-      },
-      {
-        "id": 1012,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-27",
-        "category": "여가",
-        "title": "영화 관람",
-        "memo": "예상 외 지출",
-        "amount": 92928
-      },
-      {
-        "id": 1013,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-22",
-        "category": "식비",
-        "title": "월세 납부",
-        "memo": "쿠폰 사용",
-        "amount": 70981
-      },
-      {
-        "id": 1014,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-19",
-        "category": "식비",
-        "title": "영화 관람",
-        "memo": "무통장 이체",
-        "amount": 78781
-      },
-      {
-        "id": 1015,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-19",
-        "category": "쇼핑",
-        "title": "월세 납부",
-        "memo": "카드 결제",
-        "amount": 114721
-      },
-      {
-        "id": 1016,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-18",
-        "category": "교육",
-        "title": "온라인 강의",
-        "memo": "앱 결제",
-        "amount": 113759
-      },
-      {
-        "id": 1017,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-14",
-        "category": "교육",
-        "title": "병원 진료",
-        "memo": "쿠폰 사용",
-        "amount": 31859
-      },
-      {
-        "id": 1018,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-12",
-        "category": "여가",
-        "title": "기타 지출",
-        "memo": "정기 지출",
-        "amount": 51528
-      },
-      {
-        "id": 1019,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-03-12",
-        "category": "기타",
-        "title": "부수입",
-        "memo": "지인 거래",
-        "amount": 92436
-      },
-      {
-        "id": 1020,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-03-12",
-        "category": "기타",
-        "title": "부수입",
-        "memo": "지인 거래",
-        "amount": 82065
-      },
-      {
-        "id": 1021,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-03-12",
-        "category": "기타",
-        "title": "부수입",
-        "memo": "지인 거래",
-        "amount": 85305
-      },
-      {
-        "id": 1022,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-11",
-        "category": "주거",
-        "title": "점심 식사",
-        "memo": "쿠폰 사용",
-        "amount": 25244
-      },
-      {
-        "id": 1023,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-08",
-        "category": "교육",
-        "title": "의류 구매",
-        "memo": "간편결제",
-        "amount": 53507
-      },
-      {
-        "id": 1024,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-05",
-        "category": "식비",
-        "title": "병원 진료",
-        "memo": "카드 결제",
-        "amount": 13523
-      },
-      {
-        "id": 1025,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-05",
-        "category": "교통",
-        "title": "온라인 강의",
-        "memo": "현금 사용",
-        "amount": 50616
-      },
-      {
-        "id": 1026,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-05",
-        "category": "기타",
-        "title": "영화 관람",
-        "memo": "앱 결제",
-        "amount": 46183
-      },
-      {
-        "id": 1027,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-04",
-        "category": "기타",
-        "title": "점심 식사",
-        "memo": "간편결제",
-        "amount": 30504
-      },
-      {
-        "id": 1028,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-03-03",
-        "category": "기타",
-        "title": "알바비",
-        "memo": "시급 정산",
-        "amount": 116110
-      },
-      {
-        "id": 1029,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-03-01",
-        "category": "기타",
-        "title": "점심 식사",
-        "memo": "현금 사용",
-        "amount": 88816
-      },
-      {
-        "id": 1030,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-02-27",
-        "category": "기타",
-        "title": "알바비",
-        "memo": "시급 정산",
-        "amount": 165511
-      },
-      {
-        "id": 1031,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-26",
-        "category": "기타",
-        "title": "병원 진료",
-        "memo": "쿠폰 사용",
-        "amount": 29202
-      },
-      {
-        "id": 1032,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-25",
-        "category": "의료",
-        "title": "의류 구매",
-        "memo": "정기 지출",
-        "amount": 55462
-      },
-      {
-        "id": 1033,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-25",
-        "category": "주거",
-        "title": "의류 구매",
-        "memo": "쿠폰 사용",
-        "amount": 28962
-      },
-      {
-        "id": 1034,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-23",
-        "category": "교육",
-        "title": "기타 지출",
-        "memo": "쿠폰 사용",
-        "amount": 33266
-      },
-      {
-        "id": 1035,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-23",
-        "category": "의료",
-        "title": "지하철 이용",
-        "memo": "카드 결제",
-        "amount": 102215
-      },
-      {
-        "id": 1036,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-19",
-        "category": "주거",
-        "title": "기타 지출",
-        "memo": "현금 사용",
-        "amount": 24991
-      },
-      {
-        "id": 1037,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-17",
-        "category": "식비",
-        "title": "기타 지출",
-        "memo": "쿠폰 사용",
-        "amount": 61561
-      },
-      {
-        "id": 1038,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-15",
-        "category": "쇼핑",
-        "title": "의류 구매",
-        "memo": "현금 사용",
-        "amount": 26518
-      },
-      {
-        "id": 1039,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-02-13",
-        "category": "기타",
-        "title": "부수입",
-        "memo": "지인 거래",
-        "amount": 99153
-      },
-      {
-        "id": 1040,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-12",
-        "category": "주거",
-        "title": "의류 구매",
-        "memo": "간편결제",
-        "amount": 78341
-      },
-      {
-        "id": 1041,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-02-11",
-        "category": "급여",
-        "title": "월급",
-        "memo": "회사 급여",
-        "amount": 3200000
-      },
-      {
-        "id": 1042,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-08",
-        "category": "주거",
-        "title": "영화 관람",
-        "memo": "앱 결제",
-        "amount": 115793
-      },
-      {
-        "id": 1043,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-07",
-        "category": "여가",
-        "title": "점심 식사",
-        "memo": "쿠폰 사용",
-        "amount": 99440
-      },
-      {
-        "id": 1044,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-07",
-        "category": "의료",
-        "title": "의류 구매",
-        "memo": "예상 외 지출",
-        "amount": 61225
-      },
-      {
-        "id": 1045,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-02-07",
-        "category": "기타",
-        "title": "부수입",
-        "memo": "지인 거래",
-        "amount": 92914
-      },
-      {
-        "id": 1046,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-05",
-        "category": "식비",
-        "title": "온라인 강의",
-        "memo": "간편결제",
-        "amount": 36105
-      },
-      {
-        "id": 1047,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-02-03",
-        "category": "여가",
-        "title": "온라인 강의",
-        "memo": "카드 결제",
-        "amount": 84677
-      },
-      {
-        "id": 1048,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-31",
-        "category": "교통",
-        "title": "병원 진료",
-        "memo": "쿠폰 사용",
-        "amount": 94666
-      },
-      {
-        "id": 1049,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-30",
-        "category": "쇼핑",
-        "title": "온라인 강의",
-        "memo": "무통장 이체",
-        "amount": 12187
-      },
-      {
-        "id": 1050,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-30",
-        "category": "기타",
-        "title": "점심 식사",
-        "memo": "정기 지출",
-        "amount": 105252
-      },
-      {
-        "id": 1051,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-27",
-        "category": "여가",
-        "title": "영화 관람",
-        "memo": "카드 결제",
-        "amount": 34557
-      },
-      {
-        "id": 1052,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-26",
-        "category": "교통",
-        "title": "지하철 이용",
-        "memo": "예상 외 지출",
-        "amount": 31903
-      },
-      {
-        "id": 1053,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-23",
-        "category": "쇼핑",
-        "title": "지하철 이용",
-        "memo": "현금 사용",
-        "amount": 31186
-      },
-      {
-        "id": 1054,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-21",
-        "category": "교통",
-        "title": "온라인 강의",
-        "memo": "정기 지출",
-        "amount": 28272
-      },
-      {
-        "id": 1055,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-20",
-        "category": "식비",
-        "title": "영화 관람",
-        "memo": "쿠폰 사용",
-        "amount": 52484
-      },
-      {
-        "id": 1056,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-15",
-        "category": "교육",
-        "title": "지하철 이용",
-        "memo": "정기 지출",
-        "amount": 116847
-      },
-      {
-        "id": 1057,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-13",
-        "category": "교통",
-        "title": "지하철 이용",
-        "memo": "앱 결제",
-        "amount": 74838
-      },
-      {
-        "id": 1058,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-13",
-        "category": "주거",
-        "title": "점심 식사",
-        "memo": "예상 외 지출",
-        "amount": 100977
-      },
-      {
-        "id": 1059,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-11",
-        "category": "교통",
-        "title": "의류 구매",
-        "memo": "예상 외 지출",
-        "amount": 110219
-      },
-      {
-        "id": 1060,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-11",
-        "category": "여가",
-        "title": "기타 지출",
-        "memo": "카드 결제",
-        "amount": 18968
-      },
-      {
-        "id": 1061,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-01-11",
-        "category": "기타",
-        "title": "부수입",
-        "memo": "지인 거래",
-        "amount": 83970
-      },
-      {
-        "id": 1062,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-09",
-        "category": "주거",
-        "title": "지하철 이용",
-        "memo": "현금 사용",
-        "amount": 117677
-      },
-      {
-        "id": 1063,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-09",
-        "category": "여가",
-        "title": "점심 식사",
-        "memo": "앱 결제",
-        "amount": 93985
-      },
-      {
-        "id": 1064,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-08",
-        "category": "여가",
-        "title": "기타 지출",
-        "memo": "현금 사용",
-        "amount": 100361
-      },
-      {
-        "id": 1065,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-08",
-        "category": "식비",
-        "title": "점심 식사",
-        "memo": "쿠폰 사용",
-        "amount": 6372
-      },
-      {
-        "id": 1066,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-07",
-        "category": "여가",
-        "title": "온라인 강의",
-        "memo": "간편결제",
-        "amount": 60776
-      },
-      {
-        "id": 1067,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-07",
-        "category": "교육",
-        "title": "점심 식사",
-        "memo": "예상 외 지출",
-        "amount": 112929
-      },
-      {
-        "id": 1068,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-01-03",
-        "category": "급여",
-        "title": "월급",
-        "memo": "회사 급여",
-        "amount": 3200000
-      },
-      {
-        "id": 1069,
-        "userId": 24,
-        "type": "income",
-        "date": "2025-01-03",
-        "category": "기타",
-        "title": "부수입",
-        "memo": "지인 거래",
-        "amount": 88134
-      },
-      {
-        "id": 1070,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-02",
-        "category": "주거",
-        "title": "기타 지출",
-        "memo": "예상 외 지출",
-        "amount": 99216
-      },
-      {
-        "id": 1071,
-        "userId": 24,
-        "type": "expense",
-        "date": "2025-01-01",
-        "category": "기타",
-        "title": "기타 지출",
-        "memo": "앱 결제",
-        "amount": 82255
-      },
-      {
-        "id": 1072,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-31",
-        "category": "주거",
-        "title": "병원 진료",
-        "memo": "정기 지출",
-        "amount": 71960
-      },
-      {
-        "id": 1073,
-        "userId": 24,
-        "type": "income",
-        "date": "2024-12-31",
-        "category": "기타",
-        "title": "알바비",
-        "memo": "시급 정산",
-        "amount": 106891
-      },
-      {
-        "id": 1074,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-29",
-        "category": "식비",
-        "title": "월세 납부",
-        "memo": "쿠폰 사용",
-        "amount": 38383
-      },
-      {
-        "id": 1075,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-29",
-        "category": "교통",
-        "title": "월세 납부",
-        "memo": "무통장 이체",
-        "amount": 85349
-      },
-      {
-        "id": 1076,
-        "userId": 24,
-        "type": "income",
-        "date": "2024-12-29",
-        "category": "기타",
-        "title": "부수입",
-        "memo": "지인 거래",
-        "amount": 98273
-      },
-      {
-        "id": 1077,
-        "userId": 24,
-        "type": "income",
-        "date": "2024-12-29",
-        "category": "기타",
-        "title": "알바비",
-        "memo": "시급 정산",
-        "amount": 179667
-      },
-      {
-        "id": 1078,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-27",
-        "category": "식비",
-        "title": "병원 진료",
-        "memo": "현금 사용",
-        "amount": 46139
-      },
-      {
-        "id": 1079,
-        "userId": 24,
-        "type": "income",
-        "date": "2024-12-27",
-        "category": "기타",
-        "title": "부수입",
-        "memo": "지인 거래",
-        "amount": 90515
-      },
-      {
-        "id": 1080,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-26",
-        "category": "교육",
-        "title": "병원 진료",
-        "memo": "간편결제",
-        "amount": 86097
-      },
-      {
-        "id": 1081,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-25",
-        "category": "기타",
-        "title": "병원 진료",
-        "memo": "간편결제",
-        "amount": 80864
-      },
-      {
-        "id": 1082,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-24",
-        "category": "식비",
-        "title": "기타 지출",
-        "memo": "정기 지출",
-        "amount": 43012
-      },
-      {
-        "id": 1083,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-23",
-        "category": "주거",
-        "title": "기타 지출",
-        "memo": "카드 결제",
-        "amount": 72467
-      },
-      {
-        "id": 1084,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-21",
-        "category": "여가",
-        "title": "기타 지출",
-        "memo": "현금 사용",
-        "amount": 93246
-      },
-      {
-        "id": 1085,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-20",
-        "category": "쇼핑",
-        "title": "점심 식사",
-        "memo": "무통장 이체",
-        "amount": 71423
-      },
-      {
-        "id": 1086,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-18",
-        "category": "교육",
-        "title": "지하철 이용",
-        "memo": "무통장 이체",
-        "amount": 52594
-      },
-      {
-        "id": 1087,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-18",
-        "category": "기타",
-        "title": "월세 납부",
-        "memo": "쿠폰 사용",
-        "amount": 99896
-      },
-      {
-        "id": 1088,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-15",
-        "category": "교육",
-        "title": "영화 관람",
-        "memo": "카드 결제",
-        "amount": 81773
-      },
-      {
-        "id": 1089,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-14",
-        "category": "여가",
-        "title": "지하철 이용",
-        "memo": "앱 결제",
-        "amount": 46110
-      },
-      {
-        "id": 1090,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-11",
-        "category": "주거",
-        "title": "온라인 강의",
-        "memo": "앱 결제",
-        "amount": 85282
-      },
-      {
-        "id": 1091,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-11",
-        "category": "의료",
-        "title": "의류 구매",
-        "memo": "앱 결제",
-        "amount": 97497
-      },
-      {
-        "id": 1092,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-09",
-        "category": "주거",
-        "title": "지하철 이용",
-        "memo": "예상 외 지출",
-        "amount": 80403
-      },
-      {
-        "id": 1093,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-09",
-        "category": "식비",
-        "title": "월세 납부",
-        "memo": "앱 결제",
-        "amount": 12353
-      },
-      {
-        "id": 1094,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-09",
-        "category": "주거",
-        "title": "의류 구매",
-        "memo": "현금 사용",
-        "amount": 24517
-      },
-      {
-        "id": 1095,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-07",
-        "category": "식비",
-        "title": "병원 진료",
-        "memo": "쿠폰 사용",
-        "amount": 89613
-      },
-      {
-        "id": 1096,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-06",
-        "category": "주거",
-        "title": "월세 납부",
-        "memo": "카드 결제",
-        "amount": 20239
-      },
-      {
-        "id": 1097,
-        "userId": 24,
-        "type": "income",
-        "date": "2024-12-05",
-        "category": "기타",
-        "title": "부수입",
-        "memo": "지인 거래",
-        "amount": 97164
-      },
-      {
-        "id": 1098,
-        "userId": 24,
-        "type": "income",
-        "date": "2024-12-03",
-        "category": "급여",
-        "title": "월급",
-        "memo": "회사 급여",
-        "amount": 3200000
-      },
-      {
-        "id": 1099,
-        "userId": 24,
-        "type": "expense",
-        "date": "2024-12-01",
-        "category": "쇼핑",
-        "title": "영화 관람",
-        "memo": "카드 결제",
-        "amount": 32620
-      }
-    ],
+    {
+      "id": 1000,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-10",
+      "category": "식비",
+      "title": "병원 진료",
+      "memo": "간편결제",
+      "amount": 116367
+    },
+    {
+      "id": 1001,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-09",
+      "category": "식비",
+      "title": "지하철 이용",
+      "memo": "카드 결제",
+      "amount": 20997
+    },
+    {
+      "id": 1002,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-08",
+      "category": "의료",
+      "title": "기타 지출",
+      "memo": "앱 결제",
+      "amount": 107248
+    },
+    {
+      "id": 1003,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-04-06",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 85918
+    },
+    {
+      "id": 1004,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-05",
+      "category": "기타",
+      "title": "지하철 이용",
+      "memo": "현금 사용",
+      "amount": 111752
+    },
+    {
+      "id": 1005,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-04",
+      "category": "주거",
+      "title": "의류 구매",
+      "memo": "현금 사용",
+      "amount": 79254
+    },
+    {
+      "id": 1006,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-03",
+      "category": "식비",
+      "title": "지하철 이용",
+      "memo": "간편결제",
+      "amount": 41929
+    },
+    {
+      "id": 1007,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-01",
+      "category": "쇼핑",
+      "title": "병원 진료",
+      "memo": "무통장 이체",
+      "amount": 88461
+    },
+    {
+      "id": 1008,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-30",
+      "category": "기타",
+      "title": "병원 진료",
+      "memo": "현금 사용",
+      "amount": 23633
+    },
+    {
+      "id": 1009,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-03-28",
+      "category": "급여",
+      "title": "월급",
+      "memo": "회사 급여",
+      "amount": 3200000
+    },
+    {
+      "id": 1010,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-03-28",
+      "category": "기타",
+      "title": "알바비",
+      "memo": "시급 정산",
+      "amount": 138726
+    },
+    {
+      "id": 1011,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-27",
+      "category": "주거",
+      "title": "점심 식사",
+      "memo": "무통장 이체",
+      "amount": 93132
+    },
+    {
+      "id": 1012,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-27",
+      "category": "여가",
+      "title": "영화 관람",
+      "memo": "예상 외 지출",
+      "amount": 92928
+    },
+    {
+      "id": 1013,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-22",
+      "category": "식비",
+      "title": "월세 납부",
+      "memo": "쿠폰 사용",
+      "amount": 70981
+    },
+    {
+      "id": 1014,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-19",
+      "category": "식비",
+      "title": "영화 관람",
+      "memo": "무통장 이체",
+      "amount": 78781
+    },
+    {
+      "id": 1015,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-19",
+      "category": "쇼핑",
+      "title": "월세 납부",
+      "memo": "카드 결제",
+      "amount": 114721
+    },
+    {
+      "id": 1016,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-18",
+      "category": "교육",
+      "title": "온라인 강의",
+      "memo": "앱 결제",
+      "amount": 113759
+    },
+    {
+      "id": 1017,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-14",
+      "category": "교육",
+      "title": "병원 진료",
+      "memo": "쿠폰 사용",
+      "amount": 31859
+    },
+    {
+      "id": 1018,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-12",
+      "category": "여가",
+      "title": "기타 지출",
+      "memo": "정기 지출",
+      "amount": 51528
+    },
+    {
+      "id": 1019,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-03-12",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 92436
+    },
+    {
+      "id": 1020,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-03-12",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 82065
+    },
+    {
+      "id": 1021,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-03-12",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 85305
+    },
+    {
+      "id": 1022,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-11",
+      "category": "주거",
+      "title": "점심 식사",
+      "memo": "쿠폰 사용",
+      "amount": 25244
+    },
+    {
+      "id": 1023,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-08",
+      "category": "교육",
+      "title": "의류 구매",
+      "memo": "간편결제",
+      "amount": 53507
+    },
+    {
+      "id": 1024,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-05",
+      "category": "식비",
+      "title": "병원 진료",
+      "memo": "카드 결제",
+      "amount": 13523
+    },
+    {
+      "id": 1025,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-05",
+      "category": "교통",
+      "title": "온라인 강의",
+      "memo": "현금 사용",
+      "amount": 50616
+    },
+    {
+      "id": 1026,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-05",
+      "category": "기타",
+      "title": "영화 관람",
+      "memo": "앱 결제",
+      "amount": 46183
+    },
+    {
+      "id": 1027,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-04",
+      "category": "기타",
+      "title": "점심 식사",
+      "memo": "간편결제",
+      "amount": 30504
+    },
+    {
+      "id": 1028,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-03-03",
+      "category": "기타",
+      "title": "알바비",
+      "memo": "시급 정산",
+      "amount": 116110
+    },
+    {
+      "id": 1029,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-01",
+      "category": "기타",
+      "title": "점심 식사",
+      "memo": "현금 사용",
+      "amount": 88816
+    },
+    {
+      "id": 1030,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-02-27",
+      "category": "기타",
+      "title": "알바비",
+      "memo": "시급 정산",
+      "amount": 165511
+    },
+    {
+      "id": 1031,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-26",
+      "category": "기타",
+      "title": "병원 진료",
+      "memo": "쿠폰 사용",
+      "amount": 29202
+    },
+    {
+      "id": 1032,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-25",
+      "category": "의료",
+      "title": "의류 구매",
+      "memo": "정기 지출",
+      "amount": 55462
+    },
+    {
+      "id": 1033,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-25",
+      "category": "주거",
+      "title": "의류 구매",
+      "memo": "쿠폰 사용",
+      "amount": 28962
+    },
+    {
+      "id": 1034,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-23",
+      "category": "교육",
+      "title": "기타 지출",
+      "memo": "쿠폰 사용",
+      "amount": 33266
+    },
+    {
+      "id": 1035,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-23",
+      "category": "의료",
+      "title": "지하철 이용",
+      "memo": "카드 결제",
+      "amount": 102215
+    },
+    {
+      "id": 1036,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-19",
+      "category": "주거",
+      "title": "기타 지출",
+      "memo": "현금 사용",
+      "amount": 24991
+    },
+    {
+      "id": 1037,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-17",
+      "category": "식비",
+      "title": "기타 지출",
+      "memo": "쿠폰 사용",
+      "amount": 61561
+    },
+    {
+      "id": 1038,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-15",
+      "category": "쇼핑",
+      "title": "의류 구매",
+      "memo": "현금 사용",
+      "amount": 26518
+    },
+    {
+      "id": 1039,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-02-13",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 99153
+    },
+    {
+      "id": 1040,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-12",
+      "category": "주거",
+      "title": "의류 구매",
+      "memo": "간편결제",
+      "amount": 78341
+    },
+    {
+      "id": 1041,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-02-11",
+      "category": "급여",
+      "title": "월급",
+      "memo": "회사 급여",
+      "amount": 3200000
+    },
+    {
+      "id": 1042,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-08",
+      "category": "주거",
+      "title": "영화 관람",
+      "memo": "앱 결제",
+      "amount": 115793
+    },
+    {
+      "id": 1043,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-07",
+      "category": "여가",
+      "title": "점심 식사",
+      "memo": "쿠폰 사용",
+      "amount": 99440
+    },
+    {
+      "id": 1044,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-07",
+      "category": "의료",
+      "title": "의류 구매",
+      "memo": "예상 외 지출",
+      "amount": 61225
+    },
+    {
+      "id": 1045,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-02-07",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 92914
+    },
+    {
+      "id": 1046,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-05",
+      "category": "식비",
+      "title": "온라인 강의",
+      "memo": "간편결제",
+      "amount": 36105
+    },
+    {
+      "id": 1047,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-03",
+      "category": "여가",
+      "title": "온라인 강의",
+      "memo": "카드 결제",
+      "amount": 84677
+    },
+    {
+      "id": 1048,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-31",
+      "category": "교통",
+      "title": "병원 진료",
+      "memo": "쿠폰 사용",
+      "amount": 94666
+    },
+    {
+      "id": 1049,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-30",
+      "category": "쇼핑",
+      "title": "온라인 강의",
+      "memo": "무통장 이체",
+      "amount": 12187
+    },
+    {
+      "id": 1050,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-30",
+      "category": "기타",
+      "title": "점심 식사",
+      "memo": "정기 지출",
+      "amount": 105252
+    },
+    {
+      "id": 1051,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-27",
+      "category": "여가",
+      "title": "영화 관람",
+      "memo": "카드 결제",
+      "amount": 34557
+    },
+    {
+      "id": 1052,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-26",
+      "category": "교통",
+      "title": "지하철 이용",
+      "memo": "예상 외 지출",
+      "amount": 31903
+    },
+    {
+      "id": 1053,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-23",
+      "category": "쇼핑",
+      "title": "지하철 이용",
+      "memo": "현금 사용",
+      "amount": 31186
+    },
+    {
+      "id": 1054,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-21",
+      "category": "교통",
+      "title": "온라인 강의",
+      "memo": "정기 지출",
+      "amount": 28272
+    },
+    {
+      "id": 1055,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-20",
+      "category": "식비",
+      "title": "영화 관람",
+      "memo": "쿠폰 사용",
+      "amount": 52484
+    },
+    {
+      "id": 1056,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-15",
+      "category": "교육",
+      "title": "지하철 이용",
+      "memo": "정기 지출",
+      "amount": 116847
+    },
+    {
+      "id": 1057,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-13",
+      "category": "교통",
+      "title": "지하철 이용",
+      "memo": "앱 결제",
+      "amount": 74838
+    },
+    {
+      "id": 1058,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-13",
+      "category": "주거",
+      "title": "점심 식사",
+      "memo": "예상 외 지출",
+      "amount": 100977
+    },
+    {
+      "id": 1059,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-11",
+      "category": "교통",
+      "title": "의류 구매",
+      "memo": "예상 외 지출",
+      "amount": 110219
+    },
+    {
+      "id": 1060,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-11",
+      "category": "여가",
+      "title": "기타 지출",
+      "memo": "카드 결제",
+      "amount": 18968
+    },
+    {
+      "id": 1061,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-01-11",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 83970
+    },
+    {
+      "id": 1062,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-09",
+      "category": "주거",
+      "title": "지하철 이용",
+      "memo": "현금 사용",
+      "amount": 117677
+    },
+    {
+      "id": 1063,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-09",
+      "category": "여가",
+      "title": "점심 식사",
+      "memo": "앱 결제",
+      "amount": 93985
+    },
+    {
+      "id": 1064,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-08",
+      "category": "여가",
+      "title": "기타 지출",
+      "memo": "현금 사용",
+      "amount": 100361
+    },
+    {
+      "id": 1065,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-08",
+      "category": "식비",
+      "title": "점심 식사",
+      "memo": "쿠폰 사용",
+      "amount": 6372
+    },
+    {
+      "id": 1066,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-07",
+      "category": "여가",
+      "title": "온라인 강의",
+      "memo": "간편결제",
+      "amount": 60776
+    },
+    {
+      "id": 1067,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-07",
+      "category": "교육",
+      "title": "점심 식사",
+      "memo": "예상 외 지출",
+      "amount": 112929
+    },
+    {
+      "id": 1068,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-01-03",
+      "category": "급여",
+      "title": "월급",
+      "memo": "회사 급여",
+      "amount": 3200000
+    },
+    {
+      "id": 1069,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-01-03",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 88134
+    },
+    {
+      "id": 1070,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-02",
+      "category": "주거",
+      "title": "기타 지출",
+      "memo": "예상 외 지출",
+      "amount": 99216
+    },
+    {
+      "id": 1071,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-01",
+      "category": "기타",
+      "title": "기타 지출",
+      "memo": "앱 결제",
+      "amount": 82255
+    },
+    {
+      "id": 1072,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-31",
+      "category": "주거",
+      "title": "병원 진료",
+      "memo": "정기 지출",
+      "amount": 71960
+    },
+    {
+      "id": 1073,
+      "userId": 24,
+      "type": "income",
+      "date": "2024-12-31",
+      "category": "기타",
+      "title": "알바비",
+      "memo": "시급 정산",
+      "amount": 106891
+    },
+    {
+      "id": 1074,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-29",
+      "category": "식비",
+      "title": "월세 납부",
+      "memo": "쿠폰 사용",
+      "amount": 38383
+    },
+    {
+      "id": 1075,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-29",
+      "category": "교통",
+      "title": "월세 납부",
+      "memo": "무통장 이체",
+      "amount": 85349
+    },
+    {
+      "id": 1076,
+      "userId": 24,
+      "type": "income",
+      "date": "2024-12-29",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 98273
+    },
+    {
+      "id": 1077,
+      "userId": 24,
+      "type": "income",
+      "date": "2024-12-29",
+      "category": "기타",
+      "title": "알바비",
+      "memo": "시급 정산",
+      "amount": 179667
+    },
+    {
+      "id": 1078,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-27",
+      "category": "식비",
+      "title": "병원 진료",
+      "memo": "현금 사용",
+      "amount": 46139
+    },
+    {
+      "id": 1079,
+      "userId": 24,
+      "type": "income",
+      "date": "2024-12-27",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 90515
+    },
+    {
+      "id": 1080,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-26",
+      "category": "교육",
+      "title": "병원 진료",
+      "memo": "간편결제",
+      "amount": 86097
+    },
+    {
+      "id": 1081,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-25",
+      "category": "기타",
+      "title": "병원 진료",
+      "memo": "간편결제",
+      "amount": 80864
+    },
+    {
+      "id": 1082,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-24",
+      "category": "식비",
+      "title": "기타 지출",
+      "memo": "정기 지출",
+      "amount": 43012
+    },
+    {
+      "id": 1083,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-23",
+      "category": "주거",
+      "title": "기타 지출",
+      "memo": "카드 결제",
+      "amount": 72467
+    },
+    {
+      "id": 1084,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-21",
+      "category": "여가",
+      "title": "기타 지출",
+      "memo": "현금 사용",
+      "amount": 93246
+    },
+    {
+      "id": 1085,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-20",
+      "category": "쇼핑",
+      "title": "점심 식사",
+      "memo": "무통장 이체",
+      "amount": 71423
+    },
+    {
+      "id": 1086,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-18",
+      "category": "교육",
+      "title": "지하철 이용",
+      "memo": "무통장 이체",
+      "amount": 52594
+    },
+    {
+      "id": 1087,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-18",
+      "category": "기타",
+      "title": "월세 납부",
+      "memo": "쿠폰 사용",
+      "amount": 99896
+    },
+    {
+      "id": 1088,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-15",
+      "category": "교육",
+      "title": "영화 관람",
+      "memo": "카드 결제",
+      "amount": 81773
+    },
+    {
+      "id": 1089,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-14",
+      "category": "여가",
+      "title": "지하철 이용",
+      "memo": "앱 결제",
+      "amount": 46110
+    },
+    {
+      "id": 1090,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-11",
+      "category": "주거",
+      "title": "온라인 강의",
+      "memo": "앱 결제",
+      "amount": 85282
+    },
+    {
+      "id": 1091,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-11",
+      "category": "의료",
+      "title": "의류 구매",
+      "memo": "앱 결제",
+      "amount": 97497
+    },
+    {
+      "id": 1092,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-09",
+      "category": "주거",
+      "title": "지하철 이용",
+      "memo": "예상 외 지출",
+      "amount": 80403
+    },
+    {
+      "id": 1093,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-09",
+      "category": "식비",
+      "title": "월세 납부",
+      "memo": "앱 결제",
+      "amount": 12353
+    },
+    {
+      "id": 1094,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-09",
+      "category": "주거",
+      "title": "의류 구매",
+      "memo": "현금 사용",
+      "amount": 24517
+    },
+    {
+      "id": 1095,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-07",
+      "category": "식비",
+      "title": "병원 진료",
+      "memo": "쿠폰 사용",
+      "amount": 89613
+    },
+    {
+      "id": 1096,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-06",
+      "category": "주거",
+      "title": "월세 납부",
+      "memo": "카드 결제",
+      "amount": 20239
+    },
+    {
+      "id": 1097,
+      "userId": 24,
+      "type": "income",
+      "date": "2024-12-05",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 97164
+    },
+    {
+      "id": 1098,
+      "userId": 24,
+      "type": "income",
+      "date": "2024-12-03",
+      "category": "급여",
+      "title": "월급",
+      "memo": "회사 급여",
+      "amount": 3200000
+    },
+    {
+      "id": 1099,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-01",
+      "category": "쇼핑",
+      "title": "영화 관람",
+      "memo": "카드 결제",
+      "amount": 32620
+    },
     {
       "type": "expense",
       "date": "2025-04-01",
