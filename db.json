@@ -7,6 +7,8 @@
       "nickname": "안성민",
       "joinDate": "2024-04-17",
       "balance": 2000000
+      "joinDate": "2024-04-17",
+      "balance": 2000000
     },
     {
       "id": 2,
@@ -23,12 +25,16 @@
       "nickname": "주예지",
       "joinDate": "2024-06-25",
       "balance": 2000000
+      "joinDate": "2024-06-25",
+      "balance": 2000000
     },
     {
       "id": 4,
       "email": "songminji@gmail.com",
       "password": "1234",
       "nickname": "홍정식",
+      "joinDate": "2025-02-08",
+      "balance": 2000000
       "joinDate": "2025-02-08",
       "balance": 2000000
     },
@@ -39,12 +45,16 @@
       "nickname": "최상호",
       "joinDate": "2022-11-15",
       "balance": 2000000
+      "joinDate": "2022-11-15",
+      "balance": 2000000
     },
     {
       "id": 6,
       "email": "gimjeongsu@dreamwiz.com",
       "password": "1234",
       "nickname": "최정식",
+      "joinDate": "2024-08-05",
+      "balance": 2000000
       "joinDate": "2024-08-05",
       "balance": 2000000
     },
@@ -55,6 +65,8 @@
       "nickname": "최성훈",
       "joinDate": "2024-09-18",
       "balance": 2000000
+      "joinDate": "2024-09-18",
+      "balance": 2000000
     },
     {
       "id": 8,
@@ -63,12 +75,16 @@
       "nickname": "김광수",
       "joinDate": "2022-08-10",
       "balance": 2000000
+      "joinDate": "2022-08-10",
+      "balance": 2000000
     },
     {
       "id": 9,
       "email": "miyeong33@live.com",
       "password": "1234",
       "nickname": "박은지",
+      "joinDate": "2025-03-30",
+      "balance": 2000000
       "joinDate": "2025-03-30",
       "balance": 2000000
     },
@@ -5541,6 +5557,8 @@
       "dueDate": 23,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 2,
@@ -5548,6 +5566,8 @@
       "name": "게임패스",
       "price": 11686,
       "dueDate": 24,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5559,6 +5579,8 @@
       "dueDate": 28,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 4,
@@ -5566,6 +5588,8 @@
       "name": "운동",
       "price": 10587,
       "dueDate": 2,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5577,6 +5601,8 @@
       "dueDate": 10,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 6,
@@ -5584,6 +5610,8 @@
       "name": "통신비",
       "price": 12745,
       "dueDate": 17,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -5595,6 +5623,8 @@
       "dueDate": 3,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 8,
@@ -5602,6 +5632,8 @@
       "name": "OTT",
       "price": 23985,
       "dueDate": 10,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5613,6 +5645,8 @@
       "dueDate": 17,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 10,
@@ -5620,6 +5654,8 @@
       "name": "운동",
       "price": 11901,
       "dueDate": 14,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5631,6 +5667,8 @@
       "dueDate": 10,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 12,
@@ -5638,6 +5676,8 @@
       "name": "통신비",
       "price": 42239,
       "dueDate": 21,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -5649,6 +5689,8 @@
       "dueDate": 23,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 14,
@@ -5656,6 +5698,8 @@
       "name": "게임패스",
       "price": 31294,
       "dueDate": 19,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5667,6 +5711,8 @@
       "dueDate": 22,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 16,
@@ -5674,6 +5720,8 @@
       "name": "통신비",
       "price": 46426,
       "dueDate": 16,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -5685,6 +5733,8 @@
       "dueDate": 16,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 18,
@@ -5692,6 +5742,8 @@
       "name": "통신비",
       "price": 37290,
       "dueDate": 21,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -5703,6 +5755,8 @@
       "dueDate": 5,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 20,
@@ -5710,6 +5764,8 @@
       "name": "Netflix",
       "price": 45707,
       "dueDate": 7,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5721,6 +5777,8 @@
       "dueDate": 13,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 22,
@@ -5728,6 +5786,8 @@
       "name": "OTT",
       "price": 39526,
       "dueDate": 3,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5739,6 +5799,8 @@
       "dueDate": 13,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 24,
@@ -5746,6 +5808,8 @@
       "name": "통신비",
       "price": 7698,
       "dueDate": 4,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -5757,6 +5821,8 @@
       "dueDate": 28,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 26,
@@ -5764,6 +5830,8 @@
       "name": "독서",
       "price": 19856,
       "dueDate": 5,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5775,6 +5843,8 @@
       "dueDate": 4,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 28,
@@ -5782,6 +5852,8 @@
       "name": "게임패스",
       "price": 26639,
       "dueDate": 13,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5793,6 +5865,8 @@
       "dueDate": 21,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 30,
@@ -5800,6 +5874,8 @@
       "name": "YouTube Premium",
       "price": 34313,
       "dueDate": 23,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5811,6 +5887,8 @@
       "dueDate": 5,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 32,
@@ -5818,6 +5896,8 @@
       "name": "YouTube Premium",
       "price": 34106,
       "dueDate": 12,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5829,6 +5909,8 @@
       "dueDate": 13,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 34,
@@ -5836,6 +5918,8 @@
       "name": "OTT",
       "price": 17857,
       "dueDate": 15,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5847,6 +5931,8 @@
       "dueDate": 13,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 36,
@@ -5854,6 +5940,8 @@
       "name": "YouTube Premium",
       "price": 46495,
       "dueDate": 3,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5865,6 +5953,8 @@
       "dueDate": 24,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 38,
@@ -5872,6 +5962,8 @@
       "name": "YouTube Premium",
       "price": 45028,
       "dueDate": 10,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5883,6 +5975,8 @@
       "dueDate": 25,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 40,
@@ -5890,6 +5984,8 @@
       "name": "OTT",
       "price": 28138,
       "dueDate": 14,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5901,6 +5997,8 @@
       "dueDate": 23,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 42,
@@ -5908,6 +6006,8 @@
       "name": "독서",
       "price": 47500,
       "dueDate": 18,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5919,6 +6019,8 @@
       "dueDate": 16,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 44,
@@ -5926,6 +6028,8 @@
       "name": "독서",
       "price": 36172,
       "dueDate": 7,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5937,6 +6041,8 @@
       "dueDate": 2,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 46,
@@ -5944,6 +6050,8 @@
       "name": "YouTube Premium",
       "price": 27924,
       "dueDate": 1,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5955,6 +6063,8 @@
       "dueDate": 5,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 48,
@@ -5962,6 +6072,8 @@
       "name": "OTT",
       "price": 33032,
       "dueDate": 22,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5973,6 +6085,8 @@
       "dueDate": 18,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 50,
@@ -5980,6 +6094,8 @@
       "name": "게임패스",
       "price": 17638,
       "dueDate": 11,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -5991,6 +6107,8 @@
       "dueDate": 3,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 52,
@@ -5998,6 +6116,8 @@
       "name": "통신비",
       "price": 40120,
       "dueDate": 15,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -6009,6 +6129,8 @@
       "dueDate": 17,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 54,
@@ -6016,6 +6138,8 @@
       "name": "YouTube Premium",
       "price": 29163,
       "dueDate": 3,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6027,6 +6151,8 @@
       "dueDate": 12,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 56,
@@ -6034,6 +6160,8 @@
       "name": "OTT",
       "price": 18213,
       "dueDate": 9,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6045,6 +6173,8 @@
       "dueDate": 28,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 58,
@@ -6052,6 +6182,8 @@
       "name": "통신비",
       "price": 36593,
       "dueDate": 12,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -6063,6 +6195,8 @@
       "dueDate": 18,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 60,
@@ -6070,6 +6204,8 @@
       "name": "Netflix",
       "price": 35207,
       "dueDate": 16,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6081,6 +6217,8 @@
       "dueDate": 16,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 62,
@@ -6088,6 +6226,8 @@
       "name": "게임패스",
       "price": 12741,
       "dueDate": 3,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6099,6 +6239,8 @@
       "dueDate": 27,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 64,
@@ -6106,6 +6248,8 @@
       "name": "게임패스",
       "price": 18989,
       "dueDate": 15,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6117,6 +6261,8 @@
       "dueDate": 18,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 66,
@@ -6124,6 +6270,8 @@
       "name": "Netflix",
       "price": 16821,
       "dueDate": 8,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6135,6 +6283,8 @@
       "dueDate": 27,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 68,
@@ -6142,6 +6292,8 @@
       "name": "통신비",
       "price": 25945,
       "dueDate": 14,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -6153,6 +6305,8 @@
       "dueDate": 20,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 70,
@@ -6160,6 +6314,8 @@
       "name": "OTT",
       "price": 18184,
       "dueDate": 23,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6171,6 +6327,8 @@
       "dueDate": 17,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 72,
@@ -6178,6 +6336,8 @@
       "name": "게임패스",
       "price": 40138,
       "dueDate": 21,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6189,6 +6349,8 @@
       "dueDate": 1,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 74,
@@ -6196,6 +6358,8 @@
       "name": "운동",
       "price": 11481,
       "dueDate": 6,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6207,6 +6371,8 @@
       "dueDate": 10,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 76,
@@ -6214,6 +6380,8 @@
       "name": "독서",
       "price": 40096,
       "dueDate": 17,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6225,6 +6393,8 @@
       "dueDate": 4,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 78,
@@ -6232,6 +6402,8 @@
       "name": "독서",
       "price": 22857,
       "dueDate": 4,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6243,6 +6415,8 @@
       "dueDate": 22,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 80,
@@ -6250,6 +6424,8 @@
       "name": "독서",
       "price": 23492,
       "dueDate": 8,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6261,6 +6437,8 @@
       "dueDate": 10,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 82,
@@ -6268,6 +6446,8 @@
       "name": "YouTube Premium",
       "price": 29457,
       "dueDate": 21,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6279,6 +6459,8 @@
       "dueDate": 6,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 84,
@@ -6286,6 +6468,8 @@
       "name": "OTT",
       "price": 6015,
       "dueDate": 18,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6297,6 +6481,8 @@
       "dueDate": 19,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 86,
@@ -6306,6 +6492,8 @@
       "dueDate": 13,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 87,
@@ -6313,6 +6501,8 @@
       "name": "YouTube Premium",
       "price": 38454,
       "dueDate": 3,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6333,6 +6523,8 @@
       "dueDate": 8,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 90,
@@ -6340,6 +6532,8 @@
       "name": "OTT",
       "price": 20315,
       "dueDate": 25,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6351,6 +6545,8 @@
       "dueDate": 19,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 92,
@@ -6358,6 +6554,8 @@
       "name": "독서",
       "price": 37667,
       "dueDate": 4,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6369,6 +6567,8 @@
       "dueDate": 17,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 94,
@@ -6376,6 +6576,8 @@
       "name": "통신비",
       "price": 37060,
       "dueDate": 15,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -6387,6 +6589,8 @@
       "dueDate": 18,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 96,
@@ -6394,6 +6598,8 @@
       "name": "독서",
       "price": 37420,
       "dueDate": 26,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6405,6 +6611,8 @@
       "dueDate": 23,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 98,
@@ -6412,6 +6620,8 @@
       "name": "통신비",
       "price": 14007,
       "dueDate": 20,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -6423,6 +6633,8 @@
       "dueDate": 27,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 100,
@@ -6430,6 +6642,8 @@
       "name": "OTT",
       "price": 24118,
       "dueDate": 13,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6441,6 +6655,8 @@
       "dueDate": 11,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 102,
@@ -6448,6 +6664,8 @@
       "name": "통신비",
       "price": 33914,
       "dueDate": 22,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -6459,6 +6677,8 @@
       "dueDate": 22,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 104,
@@ -6466,6 +6686,8 @@
       "name": "통신비",
       "price": 6112,
       "dueDate": 12,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -6477,6 +6699,8 @@
       "dueDate": 24,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 106,
@@ -6484,6 +6708,8 @@
       "name": "통신비",
       "price": 6440,
       "dueDate": 16,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -6495,6 +6721,8 @@
       "dueDate": 2,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 108,
@@ -6502,6 +6730,8 @@
       "name": "YouTube Premium",
       "price": 47852,
       "dueDate": 11,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6513,6 +6743,8 @@
       "dueDate": 12,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 110,
@@ -6520,6 +6752,8 @@
       "name": "YouTube Premium",
       "price": 19190,
       "dueDate": 15,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6531,6 +6765,8 @@
       "dueDate": 10,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 112,
@@ -6538,6 +6774,8 @@
       "name": "독서",
       "price": 26549,
       "dueDate": 24,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6549,6 +6787,8 @@
       "dueDate": 14,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 114,
@@ -6556,6 +6796,8 @@
       "name": "운동",
       "price": 39821,
       "dueDate": 26,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6567,6 +6809,8 @@
       "dueDate": 19,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 116,
@@ -6574,6 +6818,8 @@
       "name": "게임패스",
       "price": 30578,
       "dueDate": 6,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6585,6 +6831,8 @@
       "dueDate": 20,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 118,
@@ -6592,6 +6840,8 @@
       "name": "OTT",
       "price": 14710,
       "dueDate": 3,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6603,6 +6853,8 @@
       "dueDate": 8,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 120,
@@ -6610,6 +6862,8 @@
       "name": "OTT",
       "price": 16065,
       "dueDate": 24,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6621,6 +6875,8 @@
       "dueDate": 14,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 122,
@@ -6628,6 +6884,8 @@
       "name": "Netflix",
       "price": 45665,
       "dueDate": 21,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6639,6 +6897,8 @@
       "dueDate": 20,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 124,
@@ -6646,6 +6906,8 @@
       "name": "Netflix",
       "price": 21546,
       "dueDate": 11,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6657,6 +6919,8 @@
       "dueDate": 2,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 126,
@@ -6664,6 +6928,8 @@
       "name": "Netflix",
       "price": 28485,
       "dueDate": 10,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6675,6 +6941,8 @@
       "dueDate": 17,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 128,
@@ -6682,6 +6950,8 @@
       "name": "YouTube Premium",
       "price": 31523,
       "dueDate": 11,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6693,6 +6963,8 @@
       "dueDate": 13,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 130,
@@ -6700,6 +6972,8 @@
       "name": "통신비",
       "price": 39756,
       "dueDate": 10,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -6711,6 +6985,8 @@
       "dueDate": 25,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 132,
@@ -6718,6 +6994,8 @@
       "name": "운동",
       "price": 41182,
       "dueDate": 9,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6729,6 +7007,8 @@
       "dueDate": 24,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 134,
@@ -6736,6 +7016,8 @@
       "name": "게임패스",
       "price": 27714,
       "dueDate": 16,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6747,6 +7029,8 @@
       "dueDate": 24,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 136,
@@ -6754,6 +7038,8 @@
       "name": "통신비",
       "price": 49612,
       "dueDate": 22,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -6765,6 +7051,8 @@
       "dueDate": 22,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 138,
@@ -6772,6 +7060,8 @@
       "name": "OTT",
       "price": 39686,
       "dueDate": 17,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6783,6 +7073,8 @@
       "dueDate": 7,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 140,
@@ -6790,6 +7082,8 @@
       "name": "운동",
       "price": 26590,
       "dueDate": 26,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6801,6 +7095,8 @@
       "dueDate": 24,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 142,
@@ -6808,6 +7104,8 @@
       "name": "독서",
       "price": 28157,
       "dueDate": 6,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6819,6 +7117,8 @@
       "dueDate": 19,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 144,
@@ -6826,6 +7126,8 @@
       "name": "운동",
       "price": 15234,
       "dueDate": 12,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6837,6 +7139,8 @@
       "dueDate": 10,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 146,
@@ -6844,6 +7148,8 @@
       "name": "게임패스",
       "price": 31454,
       "dueDate": 20,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6855,6 +7161,8 @@
       "dueDate": 26,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 148,
@@ -6862,6 +7170,8 @@
       "name": "운동",
       "price": 7857,
       "dueDate": 15,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6873,6 +7183,8 @@
       "dueDate": 24,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 150,
@@ -6880,6 +7192,8 @@
       "name": "독서",
       "price": 48439,
       "dueDate": 25,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6891,6 +7205,8 @@
       "dueDate": 7,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 152,
@@ -6898,6 +7214,8 @@
       "name": "운동",
       "price": 32779,
       "dueDate": 9,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6909,6 +7227,8 @@
       "dueDate": 3,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 154,
@@ -6916,6 +7236,8 @@
       "name": "운동",
       "price": 12212,
       "dueDate": 17,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6927,6 +7249,8 @@
       "dueDate": 25,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 156,
@@ -6934,6 +7258,8 @@
       "name": "통신비",
       "price": 25407,
       "dueDate": 10,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -6945,6 +7271,8 @@
       "dueDate": 9,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 158,
@@ -6952,6 +7280,8 @@
       "name": "운동",
       "price": 41343,
       "dueDate": 11,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6963,6 +7293,8 @@
       "dueDate": 26,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 160,
@@ -6970,6 +7302,8 @@
       "name": "OTT",
       "price": 5388,
       "dueDate": 25,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6981,6 +7315,8 @@
       "dueDate": 23,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 162,
@@ -6988,6 +7324,8 @@
       "name": "게임패스",
       "price": 28654,
       "dueDate": 15,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -6999,6 +7337,8 @@
       "dueDate": 21,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 164,
@@ -7006,6 +7346,8 @@
       "name": "OTT",
       "price": 19962,
       "dueDate": 1,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7017,6 +7359,8 @@
       "dueDate": 22,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 166,
@@ -7024,6 +7368,8 @@
       "name": "독서",
       "price": 28230,
       "dueDate": 21,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7035,6 +7381,8 @@
       "dueDate": 19,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 168,
@@ -7042,6 +7390,8 @@
       "name": "통신비",
       "price": 17133,
       "dueDate": 25,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -7053,6 +7403,8 @@
       "dueDate": 15,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 170,
@@ -7060,6 +7412,8 @@
       "name": "독서",
       "price": 34468,
       "dueDate": 28,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7071,6 +7425,8 @@
       "dueDate": 7,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 172,
@@ -7078,6 +7434,8 @@
       "name": "게임패스",
       "price": 9274,
       "dueDate": 14,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7089,6 +7447,8 @@
       "dueDate": 14,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 174,
@@ -7096,6 +7456,8 @@
       "name": "운동",
       "price": 26480,
       "dueDate": 3,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7107,6 +7469,8 @@
       "dueDate": 1,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 176,
@@ -7114,6 +7478,8 @@
       "name": "YouTube Premium",
       "price": 31076,
       "dueDate": 13,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7125,6 +7491,8 @@
       "dueDate": 21,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 178,
@@ -7132,6 +7500,8 @@
       "name": "독서",
       "price": 7517,
       "dueDate": 19,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7143,6 +7513,8 @@
       "dueDate": 5,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 180,
@@ -7150,6 +7522,8 @@
       "name": "독서",
       "price": 23241,
       "dueDate": 11,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7161,6 +7535,8 @@
       "dueDate": 17,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 182,
@@ -7168,6 +7544,8 @@
       "name": "Netflix",
       "price": 10340,
       "dueDate": 19,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7179,6 +7557,8 @@
       "dueDate": 3,
       "category": "고정지출",
       "icon": ""
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 184,
@@ -7186,6 +7566,8 @@
       "name": "독서",
       "price": 12262,
       "dueDate": 22,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7197,6 +7579,8 @@
       "dueDate": 11,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 186,
@@ -7204,6 +7588,8 @@
       "name": "통신비",
       "price": 30732,
       "dueDate": 5,
+      "category": "고정지출",
+      "icon": ""
       "category": "고정지출",
       "icon": ""
     },
@@ -7215,6 +7601,8 @@
       "dueDate": 5,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 188,
@@ -7222,6 +7610,8 @@
       "name": "YouTube Premium",
       "price": 31489,
       "dueDate": 28,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7233,6 +7623,8 @@
       "dueDate": 6,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 190,
@@ -7240,6 +7632,8 @@
       "name": "YouTube Premium",
       "price": 36515,
       "dueDate": 23,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7251,6 +7645,8 @@
       "dueDate": 2,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 192,
@@ -7258,6 +7654,8 @@
       "name": "독서",
       "price": 46367,
       "dueDate": 13,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7278,6 +7676,8 @@
       "dueDate": 6,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 195,
@@ -7285,6 +7685,8 @@
       "name": "YouTube Premium",
       "price": 22102,
       "dueDate": 11,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7296,6 +7698,8 @@
       "dueDate": 17,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 197,
@@ -7303,6 +7707,8 @@
       "name": "YouTube Premium",
       "price": 34414,
       "dueDate": 18,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
@@ -7314,6 +7720,8 @@
       "dueDate": 19,
       "category": "구독",
       "icon": ""
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 199,
@@ -7321,6 +7729,8 @@
       "name": "독서",
       "price": 38569,
       "dueDate": 2,
+      "category": "구독",
+      "icon": ""
       "category": "구독",
       "icon": ""
     },
