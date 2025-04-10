@@ -5,70 +5,210 @@
       "email": "ggim@dreamwiz.com",
       "password": "1234",
       "nickname": "안성민",
-      "joinDate": "2024-04-17"
+      "joinDate": "2024-04-17",
+      "balance": 2000000
     },
     {
       "id": 2,
       "email": "migyeongi@daum.net",
-      "password": "1234",
-      "nickname": "김하은",
-      "joinDate": "2025-04-07"
+      "password": "12341234",
+      "nickname": "김성운",
+      "joinDate": "2025-04-07",
+      "balance": 2000000
     },
     {
       "id": 3,
       "email": "sangceol15@coeii.net",
-      "password": "1234",
+      "password": "123456123",
       "nickname": "주예지",
-      "joinDate": "2024-06-25"
+      "joinDate": "2024-06-25",
+      "balance": 2000000
     },
     {
       "id": 4,
       "email": "songminji@gmail.com",
       "password": "1234",
       "nickname": "홍정식",
-      "joinDate": "2025-02-08"
+      "joinDate": "2025-02-08",
+      "balance": 2000000
     },
     {
       "id": 5,
       "email": "vryu@yu.com",
       "password": "1234",
       "nickname": "최상호",
-      "joinDate": "2022-11-15"
+      "joinDate": "2022-11-15",
+      "balance": 2000000
     },
     {
       "id": 6,
       "email": "gimjeongsu@dreamwiz.com",
       "password": "1234",
       "nickname": "최정식",
-      "joinDate": "2024-08-05"
+      "joinDate": "2024-08-05",
+      "balance": 2000000
     },
     {
       "id": 7,
       "email": "hyeonsugjo@naver.com",
       "password": "1234",
       "nickname": "최성훈",
-      "joinDate": "2024-09-18"
+      "joinDate": "2024-09-18",
+      "balance": 2000000
     },
     {
       "id": 8,
       "email": "seungmin20@baggim.org",
       "password": "1234",
       "nickname": "김광수",
-      "joinDate": "2022-08-10"
+      "joinDate": "2022-08-10",
+      "balance": 2000000
     },
     {
       "id": 9,
       "email": "miyeong33@live.com",
       "password": "1234",
       "nickname": "박은지",
-      "joinDate": "2025-03-30"
+      "joinDate": "2025-03-30",
+      "balance": 2000000
     },
     {
       "id": 10,
       "email": "isangho@nate.com",
       "password": "1234",
       "nickname": "김지민",
-      "joinDate": "2022-10-06"
+      "joinDate": "2022-10-06",
+      "balance": 2000000
+    },
+    {
+      "nickname": "111",
+      "email": "111",
+      "password": "111",
+      "id": 11
+    },
+    {
+      "nickname": "q",
+      "email": "q",
+      "password": "q",
+      "id": 12
+    },
+    {
+      "nickname": "222",
+      "email": "222",
+      "password": "222",
+      "id": 13
+    },
+    {
+      "nickname": "qw",
+      "email": "qw",
+      "password": "qw",
+      "id": 14
+    },
+    {
+      "nickname": "kbkb",
+      "email": "KB@gmail.com",
+      "password": "kb",
+      "id": 15
+    },
+    {
+      "nickname": "kb",
+      "email": "kbTest@kb.com",
+      "password": "kb",
+      "id": 16
+    },
+    {
+      "nickname": "kb",
+      "email": "kb@gmail.com",
+      "password": "!ehdgml12",
+      "id": 17
+    },
+    {
+      "nickname": "이다현",
+      "email": "dahyun@naver.com",
+      "password": "1234",
+      "id": 18
+    },
+    {
+      "nickname": "a",
+      "email": "a@gmail.com",
+      "password": "a",
+      "id": 19
+    },
+    {
+      "nickname": "a",
+      "email": "a@gmail.com",
+      "password": "a",
+      "id": 20
+    },
+    {
+      "nickname": "a",
+      "email": "a@gmail.com",
+      "password": "a",
+      "id": 21
+    },
+    {
+      "nickname": "a",
+      "email": "aa@g.,c9j",
+      "password": "123",
+      "id": 22
+    },
+    {
+      "nickname": "a",
+      "email": "aa@g.,c9j",
+      "password": "123",
+      "id": 23
+    },
+    {
+      "nickname": "KB",
+      "email": "testKB@kb.com",
+      "password": "1234",
+      "id": 24
+    },
+    {
+      "nickname": "meentho",
+      "email": "meentho",
+      "password": "123",
+      "id": 25
+    },
+    {
+      "nickname": "123",
+      "email": "123@123",
+      "password": "123",
+      "id": 26
+    },
+    {
+      "nickname": "ㅁㅁ",
+      "email": "meentho@naver.com",
+      "password": "12344",
+      "id": 27
+    },
+    {
+      "nickname": "dd",
+      "email": "dd@gmail.com",
+      "password": "1234",
+      "id": 28
+    },
+    {
+      "nickname": "a",
+      "email": "a",
+      "password": "a",
+      "id": 29
+    },
+    {
+      "id": 1097,
+      "userId": 24,
+      "type": "income",
+      "date": "2024-12-05",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 97164
+    },
+    {
+      "nickname": "12",
+      "email": "kb@test.com",
+      "password": "12",
+      "id": 1098
     }
   ],
   "transactions": [
@@ -2194,13 +2334,13 @@
     },
     {
       "id": 213,
-      "userId": 5,
+      "userId": "5",
       "type": "expense",
       "date": "2025-04-03",
       "category": "문화",
       "title": "교통비",
       "memo": "콘서트 티켓",
-      "amount": 54497
+      "amount": 454497
     },
     {
       "id": 214,
@@ -3071,6 +3211,2325 @@
       "title": "부모님 용돈",
       "memo": "앱테크 수익",
       "amount": 34320
+    },
+    {
+      "type": "지출",
+      "date": "2025-04-09",
+      "amount": 20000,
+      "category": "주거비",
+      "memo": "",
+      "id": 301
+    },
+    {
+      "type": "지출",
+      "date": "2025-04-19",
+      "amount": 50000,
+      "category": "주거비",
+      "memo": "",
+      "id": 302
+    },
+    {
+      "type": "지출",
+      "date": "2025-04-09",
+      "amount": 250000,
+      "category": "주거비",
+      "memo": "민서",
+      "id": 303
+    },
+    {
+      "type": "지출",
+      "date": "2025-04-09",
+      "amount": 50000,
+      "category": "교통비",
+      "memo": "ㅇㅇ",
+      "id": 304
+    },
+    {
+      "type": "지출",
+      "date": "2025-04-09",
+      "amount": 20000,
+      "category": "교통비",
+      "memo": "ㅇㅇ",
+      "id": 305
+    },
+    {
+      "type": "지출",
+      "date": "2025-04-09",
+      "amount": 10000,
+      "category": "의료비",
+      "memo": "ㄹㄹ",
+      "id": 306
+    },
+    {
+      "type": "수입",
+      "date": "2025-04-01",
+      "amount": 50000,
+      "category": "급여",
+      "memo": "",
+      "id": 310
+    },
+    {
+      "type": "수입",
+      "date": "2025-04-09",
+      "amount": 100000,
+      "category": "급여",
+      "memo": "ㅇㅇ",
+      "id": 311
+    },
+    {
+      "type": "지출",
+      "date": "2025-04-08",
+      "amount": 20000,
+      "category": "교통비",
+      "memo": "ㅇㅇ",
+      "userId": 11,
+      "id": 312
+    },
+    {
+      "type": "수입",
+      "date": "2025-04-09",
+      "amount": 1000000,
+      "category": "급여",
+      "memo": "ㅇㅇ",
+      "userId": 11,
+      "id": 313
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-09",
+      "amount": 1000000,
+      "category": "교통비",
+      "memo": "11",
+      "id": 314
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-09",
+      "amount": 1000000,
+      "category": "교통비",
+      "memo": "11",
+      "id": 315
+    },
+    {
+      "type": "income",
+      "date": "",
+      "amount": 2000000,
+      "category": "판매수익",
+      "memo": "",
+      "id": 316
+    },
+    {
+      "type": "income",
+      "date": "2025-04-09",
+      "amount": 100000,
+      "category": "이자소득",
+      "memo": "22",
+      "id": 317
+    },
+    {
+      "type": "income",
+      "date": "2025-04-09",
+      "amount": 2000000,
+      "category": "용돈",
+      "memo": "dd",
+      "userId": 3,
+      "id": 318
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-09",
+      "amount": 10000,
+      "category": "주거비",
+      "memo": "dd",
+      "userId": 13,
+      "id": 319
+    },
+    {
+      "type": "income",
+      "date": "2025-04-09",
+      "amount": 100000,
+      "category": "급여",
+      "memo": "dd",
+      "userId": 13,
+      "id": 320
+    },
+    {
+      "type": "income",
+      "date": "2025-04-09",
+      "amount": 1000000,
+      "category": "판매수익",
+      "memo": "에스엔피",
+      "userId": 13,
+      "id": 321
+    },
+    {
+      "type": "income",
+      "date": "2025-04-10",
+      "amount": 1000000,
+      "category": "용돈",
+      "memo": "상현오빠의 생일선물",
+      "userId": 13,
+      "id": 322
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-10",
+      "amount": 500000,
+      "category": "문화생활",
+      "memo": "메렌",
+      "userId": 13,
+      "id": 323
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-10",
+      "amount": 20000,
+      "category": "주거비",
+      "memo": "dd",
+      "userId": 11,
+      "id": 324
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-16",
+      "amount": 50000,
+      "category": "문화생활",
+      "memo": "dd",
+      "id": 325
+    },
+    {
+      "type": "expense",
+      "date": "",
+      "amount": 50000,
+      "category": "문화생활",
+      "memo": "dd",
+      "id": 326
+    },
+    {
+      "type": "expense",
+      "date": "",
+      "amount": 50000,
+      "category": "문화생활",
+      "memo": "dd",
+      "id": 327
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-10",
+      "amount": 50000,
+      "category": "문화생활",
+      "memo": "dd",
+      "id": 328
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-26",
+      "amount": 2000000,
+      "category": "주거비",
+      "memo": "dd",
+      "id": 329
+    },
+    {
+      "type": "income",
+      "date": "2025-04-10",
+      "amount": 1000000,
+      "category": "용돈",
+      "memo": "dd",
+      "id": 330
+    },
+    {
+      "type": "income",
+      "date": "2025-04-10",
+      "amount": 1000000,
+      "category": "용돈",
+      "memo": "dd",
+      "userId": 11,
+      "id": 331
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-08",
+      "amount": 55000,
+      "category": "교통비",
+      "memo": "기후동행카드",
+      "id": 332
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-18",
+      "amount": 123123,
+      "category": "식비",
+      "memo": "123",
+      "id": 333
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-17",
+      "amount": 123123,
+      "category": "식비",
+      "memo": "123",
+      "id": 334
+    },
+    {
+      "type": "expense",
+      "date": "2024-10-09",
+      "amount": 123123,
+      "category": "교통비",
+      "memo": "123",
+      "id": 335
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-11",
+      "amount": 10000,
+      "category": "식비",
+      "memo": "ㅖ",
+      "userId": 3,
+      "id": 336
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-10",
+      "amount": 133123,
+      "category": "식비",
+      "memo": "123",
+      "id": 337
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-14",
+      "amount": 173123,
+      "category": "식비",
+      "memo": "",
+      "id": 338
+    },
+    {
+      "type": "income",
+      "date": "2025-04-25",
+      "amount": 100000,
+      "category": "용돈",
+      "memo": "dd",
+      "userId": 11,
+      "id": 340
+    },
+    {
+      "type": "income",
+      "date": "2025-04-18",
+      "amount": 50000,
+      "category": "용돈",
+      "memo": "qewr",
+      "userId": 11,
+      "id": 341
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-18",
+      "amount": 50000,
+      "category": "교통비",
+      "memo": "qwer",
+      "userId": 11,
+      "id": 342
+    },
+    {
+      "type": "income",
+      "date": "2025-04-18",
+      "amount": 100000,
+      "category": "판매수익",
+      "memo": "이자",
+      "userId": 11,
+      "id": 343
+    },
+    {
+      "type": "expense",
+      "date": "",
+      "amount": 123123,
+      "category": "교통비",
+      "memo": "123123",
+      "userId": "5",
+      "id": 344
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-02",
+      "amount": 12000,
+      "category": "교통비",
+      "memo": "메모",
+      "userId": 3,
+      "id": 346
+    },
+    {
+      "type": "income",
+      "date": "2025-04-08",
+      "amount": 1000,
+      "category": "용돈",
+      "memo": ".",
+      "userId": 3,
+      "id": 347
+    },
+    {
+      "type": "expense",
+      "date": "2025-05-07",
+      "amount": 123123,
+      "category": "교통비",
+      "title": "123",
+      "memo": "",
+      "userId": "5",
+      "id": 349
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-25",
+      "amount": 10000,
+      "category": "교통비",
+      "title": "1d",
+      "memo": "",
+      "userId": "11",
+      "id": 350
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-12",
+      "amount": 1000000,
+      "category": "교통비",
+      "title": "d",
+      "memo": "",
+      "userId": "11",
+      "id": 351
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-24",
+      "amount": 1100000,
+      "category": "교통비",
+      "title": "ㄴㄴ",
+      "memo": "",
+      "userId": "11",
+      "id": 352
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-10",
+      "amount": 50000,
+      "category": "교통비",
+      "title": "123",
+      "memo": "123",
+      "userId": "5",
+      "id": 353
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-18",
+      "amount": 100000,
+      "category": "주거비",
+      "title": "123123",
+      "memo": "",
+      "userId": "5",
+      "id": 354
+    },
+    {
+      "type": "income",
+      "date": "2025-04-18",
+      "amount": 2000000,
+      "category": "용돈",
+      "title": "123",
+      "memo": "",
+      "userId": "5",
+      "id": 355
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-11",
+      "amount": 100000,
+      "category": "식비",
+      "title": "123",
+      "memo": "",
+      "userId": "5",
+      "id": 356
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-23",
+      "amount": 100000,
+      "category": "주거비",
+      "title": "123",
+      "memo": "123",
+      "userId": "5",
+      "id": 357
+    },
+    {
+      "type": "income",
+      "date": "2025-05-21",
+      "amount": 200000,
+      "category": "판매수익",
+      "title": "주식 성공",
+      "memo": "야미~~",
+      "userId": "11",
+      "id": 358
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-20",
+      "amount": 50000,
+      "category": "주거비",
+      "title": "월세",
+      "memo": "ㅜㅜ",
+      "userId": "11",
+      "id": 359
+    },
+    {
+      "type": "income",
+      "date": "2025-04-13",
+      "amount": 50000,
+      "category": "판매수익",
+      "title": "주식",
+      "memo": "야미",
+      "userId": "11",
+      "id": 360
+    },
+    {
+      "type": "income",
+      "date": "2025-04-29",
+      "amount": 1000000,
+      "category": "용돈",
+      "title": "로또",
+      "memo": "희망사항",
+      "userId": "11",
+      "id": 361
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-22",
+      "amount": 100000,
+      "category": "문화생활",
+      "title": "EE",
+      "memo": "EE",
+      "userId": "11",
+      "id": 362
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-14",
+      "amount": 50000,
+      "category": "교통비",
+      "title": "CC",
+      "memo": "CC",
+      "userId": "11",
+      "id": 363
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-21",
+      "amount": 100000,
+      "category": "주거비",
+      "title": "dd",
+      "memo": "dd",
+      "userId": "11",
+      "id": 364
+    },
+    {
+      "id": 365
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-09",
+      "amount": 1000000,
+      "category": "교통비",
+      "title": "edd",
+      "memo": "",
+      "userId": "11",
+      "id": 366
+    },
+    {
+      "type": "income",
+      "date": "2025-04-16",
+      "amount": 1000000,
+      "category": "용돈",
+      "title": "fgfgh",
+      "memo": "",
+      "userId": "11",
+      "id": 367
+    },
+    {
+      "type": "income",
+      "date": "2025-04-10",
+      "amount": 1000000,
+      "category": "판매수익",
+      "title": "123",
+      "memo": "",
+      "userId": "11",
+      "id": 368
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-24",
+      "amount": 50000,
+      "category": "교통비",
+      "title": "123",
+      "memo": "",
+      "userId": "11",
+      "id": 369
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-09",
+      "amount": 10000,
+      "category": "주거비",
+      "title": "dd",
+      "memo": "",
+      "userId": "11",
+      "id": 370
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-16",
+      "amount": 200000,
+      "category": "교통비",
+      "title": "ddd",
+      "memo": "",
+      "userId": null,
+      "id": 371
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-08",
+      "amount": 100000,
+      "category": "교통비",
+      "title": "fff",
+      "memo": "",
+      "userId": "5",
+      "id": 372
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-16",
+      "amount": 50000,
+      "category": "의료비",
+      "title": "병원비",
+      "memo": "술먹고 넘어짐",
+      "userId": "5",
+      "id": 373
+    },
+    {
+      "type": "expense",
+      "date": "2024-12-12",
+      "amount": 50000,
+      "category": "의료비",
+      "title": "병원비",
+      "memo": "술먹고 넘어져서 깁스함",
+      "userId": "5",
+      "id": 374
+    },
+    {
+      "type": "income",
+      "date": "2024-12-12",
+      "amount": 100000,
+      "category": "용돈",
+      "title": "생활비",
+      "memo": "",
+      "userId": "5",
+      "id": 375
+    },
+    {
+      "type": "income",
+      "date": "2024-12-16",
+      "amount": 316000,
+      "category": "급여",
+      "title": "훈련장려금",
+      "memo": "국가",
+      "userId": "5",
+      "id": 376
+    },
+    {
+      "type": "income",
+      "date": "2024-12-16",
+      "amount": 250000,
+      "category": "급여",
+      "title": "훈련장려금",
+      "memo": "KB",
+      "userId": "5",
+      "id": 377
+    },
+    {
+      "type": "expense",
+      "date": "2024-12-25",
+      "amount": 30000,
+      "category": "기타",
+      "title": "선물",
+      "memo": "크리스마스 선물",
+      "userId": "5",
+      "id": 378
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-10",
+      "amount": 10000,
+      "category": "주거비",
+      "title": "123",
+      "memo": "",
+      "userId": "5",
+      "id": 379
+    },
+    {
+      "type": "expense",
+      "date": "2025-03-06",
+      "amount": 100000,
+      "category": "교통비",
+      "title": "123",
+      "memo": "",
+      "userId": "5",
+      "id": 380
+    },
+    {
+      "type": "expense",
+      "date": "2025-03-13",
+      "amount": 100000,
+      "category": "교통비",
+      "title": "1ㅇㅇ",
+      "memo": "",
+      "userId": "5",
+      "id": 381
+    },
+    [
+      {
+        "id": 1000,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-04-10",
+        "category": "식비",
+        "title": "병원 진료",
+        "memo": "간편결제",
+        "amount": 116367
+      },
+      {
+        "id": 1001,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-04-09",
+        "category": "식비",
+        "title": "지하철 이용",
+        "memo": "카드 결제",
+        "amount": 20997
+      },
+      {
+        "id": 1002,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-04-08",
+        "category": "의료",
+        "title": "기타 지출",
+        "memo": "앱 결제",
+        "amount": 107248
+      },
+      {
+        "id": 1003,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-04-06",
+        "category": "기타",
+        "title": "부수입",
+        "memo": "지인 거래",
+        "amount": 85918
+      },
+      {
+        "id": 1004,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-04-05",
+        "category": "기타",
+        "title": "지하철 이용",
+        "memo": "현금 사용",
+        "amount": 111752
+      },
+      {
+        "id": 1005,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-04-04",
+        "category": "주거",
+        "title": "의류 구매",
+        "memo": "현금 사용",
+        "amount": 79254
+      },
+      {
+        "id": 1006,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-04-03",
+        "category": "식비",
+        "title": "지하철 이용",
+        "memo": "간편결제",
+        "amount": 41929
+      },
+      {
+        "id": 1007,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-04-01",
+        "category": "쇼핑",
+        "title": "병원 진료",
+        "memo": "무통장 이체",
+        "amount": 88461
+      },
+      {
+        "id": 1008,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-30",
+        "category": "기타",
+        "title": "병원 진료",
+        "memo": "현금 사용",
+        "amount": 23633
+      },
+      {
+        "id": 1009,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-03-28",
+        "category": "급여",
+        "title": "월급",
+        "memo": "회사 급여",
+        "amount": 3200000
+      },
+      {
+        "id": 1010,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-03-28",
+        "category": "기타",
+        "title": "알바비",
+        "memo": "시급 정산",
+        "amount": 138726
+      },
+      {
+        "id": 1011,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-27",
+        "category": "주거",
+        "title": "점심 식사",
+        "memo": "무통장 이체",
+        "amount": 93132
+      },
+      {
+        "id": 1012,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-27",
+        "category": "여가",
+        "title": "영화 관람",
+        "memo": "예상 외 지출",
+        "amount": 92928
+      },
+      {
+        "id": 1013,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-22",
+        "category": "식비",
+        "title": "월세 납부",
+        "memo": "쿠폰 사용",
+        "amount": 70981
+      },
+      {
+        "id": 1014,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-19",
+        "category": "식비",
+        "title": "영화 관람",
+        "memo": "무통장 이체",
+        "amount": 78781
+      },
+      {
+        "id": 1015,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-19",
+        "category": "쇼핑",
+        "title": "월세 납부",
+        "memo": "카드 결제",
+        "amount": 114721
+      },
+      {
+        "id": 1016,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-18",
+        "category": "교육",
+        "title": "온라인 강의",
+        "memo": "앱 결제",
+        "amount": 113759
+      },
+      {
+        "id": 1017,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-14",
+        "category": "교육",
+        "title": "병원 진료",
+        "memo": "쿠폰 사용",
+        "amount": 31859
+      },
+      {
+        "id": 1018,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-12",
+        "category": "여가",
+        "title": "기타 지출",
+        "memo": "정기 지출",
+        "amount": 51528
+      },
+      {
+        "id": 1019,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-03-12",
+        "category": "기타",
+        "title": "부수입",
+        "memo": "지인 거래",
+        "amount": 92436
+      },
+      {
+        "id": 1020,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-03-12",
+        "category": "기타",
+        "title": "부수입",
+        "memo": "지인 거래",
+        "amount": 82065
+      },
+      {
+        "id": 1021,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-03-12",
+        "category": "기타",
+        "title": "부수입",
+        "memo": "지인 거래",
+        "amount": 85305
+      },
+      {
+        "id": 1022,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-11",
+        "category": "주거",
+        "title": "점심 식사",
+        "memo": "쿠폰 사용",
+        "amount": 25244
+      },
+      {
+        "id": 1023,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-08",
+        "category": "교육",
+        "title": "의류 구매",
+        "memo": "간편결제",
+        "amount": 53507
+      },
+      {
+        "id": 1024,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-05",
+        "category": "식비",
+        "title": "병원 진료",
+        "memo": "카드 결제",
+        "amount": 13523
+      },
+      {
+        "id": 1025,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-05",
+        "category": "교통",
+        "title": "온라인 강의",
+        "memo": "현금 사용",
+        "amount": 50616
+      },
+      {
+        "id": 1026,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-05",
+        "category": "기타",
+        "title": "영화 관람",
+        "memo": "앱 결제",
+        "amount": 46183
+      },
+      {
+        "id": 1027,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-04",
+        "category": "기타",
+        "title": "점심 식사",
+        "memo": "간편결제",
+        "amount": 30504
+      },
+      {
+        "id": 1028,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-03-03",
+        "category": "기타",
+        "title": "알바비",
+        "memo": "시급 정산",
+        "amount": 116110
+      },
+      {
+        "id": 1029,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-03-01",
+        "category": "기타",
+        "title": "점심 식사",
+        "memo": "현금 사용",
+        "amount": 88816
+      },
+      {
+        "id": 1030,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-02-27",
+        "category": "기타",
+        "title": "알바비",
+        "memo": "시급 정산",
+        "amount": 165511
+      },
+      {
+        "id": 1031,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-26",
+        "category": "기타",
+        "title": "병원 진료",
+        "memo": "쿠폰 사용",
+        "amount": 29202
+      },
+      {
+        "id": 1032,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-25",
+        "category": "의료",
+        "title": "의류 구매",
+        "memo": "정기 지출",
+        "amount": 55462
+      },
+      {
+        "id": 1033,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-25",
+        "category": "주거",
+        "title": "의류 구매",
+        "memo": "쿠폰 사용",
+        "amount": 28962
+      },
+      {
+        "id": 1034,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-23",
+        "category": "교육",
+        "title": "기타 지출",
+        "memo": "쿠폰 사용",
+        "amount": 33266
+      },
+      {
+        "id": 1035,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-23",
+        "category": "의료",
+        "title": "지하철 이용",
+        "memo": "카드 결제",
+        "amount": 102215
+      },
+      {
+        "id": 1036,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-19",
+        "category": "주거",
+        "title": "기타 지출",
+        "memo": "현금 사용",
+        "amount": 24991
+      },
+      {
+        "id": 1037,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-17",
+        "category": "식비",
+        "title": "기타 지출",
+        "memo": "쿠폰 사용",
+        "amount": 61561
+      },
+      {
+        "id": 1038,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-15",
+        "category": "쇼핑",
+        "title": "의류 구매",
+        "memo": "현금 사용",
+        "amount": 26518
+      },
+      {
+        "id": 1039,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-02-13",
+        "category": "기타",
+        "title": "부수입",
+        "memo": "지인 거래",
+        "amount": 99153
+      },
+      {
+        "id": 1040,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-12",
+        "category": "주거",
+        "title": "의류 구매",
+        "memo": "간편결제",
+        "amount": 78341
+      },
+      {
+        "id": 1041,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-02-11",
+        "category": "급여",
+        "title": "월급",
+        "memo": "회사 급여",
+        "amount": 3200000
+      },
+      {
+        "id": 1042,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-08",
+        "category": "주거",
+        "title": "영화 관람",
+        "memo": "앱 결제",
+        "amount": 115793
+      },
+      {
+        "id": 1043,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-07",
+        "category": "여가",
+        "title": "점심 식사",
+        "memo": "쿠폰 사용",
+        "amount": 99440
+      },
+      {
+        "id": 1044,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-07",
+        "category": "의료",
+        "title": "의류 구매",
+        "memo": "예상 외 지출",
+        "amount": 61225
+      },
+      {
+        "id": 1045,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-02-07",
+        "category": "기타",
+        "title": "부수입",
+        "memo": "지인 거래",
+        "amount": 92914
+      },
+      {
+        "id": 1046,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-05",
+        "category": "식비",
+        "title": "온라인 강의",
+        "memo": "간편결제",
+        "amount": 36105
+      },
+      {
+        "id": 1047,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-02-03",
+        "category": "여가",
+        "title": "온라인 강의",
+        "memo": "카드 결제",
+        "amount": 84677
+      },
+      {
+        "id": 1048,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-31",
+        "category": "교통",
+        "title": "병원 진료",
+        "memo": "쿠폰 사용",
+        "amount": 94666
+      },
+      {
+        "id": 1049,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-30",
+        "category": "쇼핑",
+        "title": "온라인 강의",
+        "memo": "무통장 이체",
+        "amount": 12187
+      },
+      {
+        "id": 1050,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-30",
+        "category": "기타",
+        "title": "점심 식사",
+        "memo": "정기 지출",
+        "amount": 105252
+      },
+      {
+        "id": 1051,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-27",
+        "category": "여가",
+        "title": "영화 관람",
+        "memo": "카드 결제",
+        "amount": 34557
+      },
+      {
+        "id": 1052,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-26",
+        "category": "교통",
+        "title": "지하철 이용",
+        "memo": "예상 외 지출",
+        "amount": 31903
+      },
+      {
+        "id": 1053,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-23",
+        "category": "쇼핑",
+        "title": "지하철 이용",
+        "memo": "현금 사용",
+        "amount": 31186
+      },
+      {
+        "id": 1054,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-21",
+        "category": "교통",
+        "title": "온라인 강의",
+        "memo": "정기 지출",
+        "amount": 28272
+      },
+      {
+        "id": 1055,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-20",
+        "category": "식비",
+        "title": "영화 관람",
+        "memo": "쿠폰 사용",
+        "amount": 52484
+      },
+      {
+        "id": 1056,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-15",
+        "category": "교육",
+        "title": "지하철 이용",
+        "memo": "정기 지출",
+        "amount": 116847
+      },
+      {
+        "id": 1057,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-13",
+        "category": "교통",
+        "title": "지하철 이용",
+        "memo": "앱 결제",
+        "amount": 74838
+      },
+      {
+        "id": 1058,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-13",
+        "category": "주거",
+        "title": "점심 식사",
+        "memo": "예상 외 지출",
+        "amount": 100977
+      },
+      {
+        "id": 1059,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-11",
+        "category": "교통",
+        "title": "의류 구매",
+        "memo": "예상 외 지출",
+        "amount": 110219
+      },
+      {
+        "id": 1060,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-11",
+        "category": "여가",
+        "title": "기타 지출",
+        "memo": "카드 결제",
+        "amount": 18968
+      },
+      {
+        "id": 1061,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-01-11",
+        "category": "기타",
+        "title": "부수입",
+        "memo": "지인 거래",
+        "amount": 83970
+      },
+      {
+        "id": 1062,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-09",
+        "category": "주거",
+        "title": "지하철 이용",
+        "memo": "현금 사용",
+        "amount": 117677
+      },
+      {
+        "id": 1063,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-09",
+        "category": "여가",
+        "title": "점심 식사",
+        "memo": "앱 결제",
+        "amount": 93985
+      },
+      {
+        "id": 1064,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-08",
+        "category": "여가",
+        "title": "기타 지출",
+        "memo": "현금 사용",
+        "amount": 100361
+      },
+      {
+        "id": 1065,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-08",
+        "category": "식비",
+        "title": "점심 식사",
+        "memo": "쿠폰 사용",
+        "amount": 6372
+      },
+      {
+        "id": 1066,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-07",
+        "category": "여가",
+        "title": "온라인 강의",
+        "memo": "간편결제",
+        "amount": 60776
+      },
+      {
+        "id": 1067,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-07",
+        "category": "교육",
+        "title": "점심 식사",
+        "memo": "예상 외 지출",
+        "amount": 112929
+      },
+      {
+        "id": 1068,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-01-03",
+        "category": "급여",
+        "title": "월급",
+        "memo": "회사 급여",
+        "amount": 3200000
+      },
+      {
+        "id": 1069,
+        "userId": 24,
+        "type": "income",
+        "date": "2025-01-03",
+        "category": "기타",
+        "title": "부수입",
+        "memo": "지인 거래",
+        "amount": 88134
+      },
+      {
+        "id": 1070,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-02",
+        "category": "주거",
+        "title": "기타 지출",
+        "memo": "예상 외 지출",
+        "amount": 99216
+      },
+      {
+        "id": 1071,
+        "userId": 24,
+        "type": "expense",
+        "date": "2025-01-01",
+        "category": "기타",
+        "title": "기타 지출",
+        "memo": "앱 결제",
+        "amount": 82255
+      },
+      {
+        "id": 1072,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-31",
+        "category": "주거",
+        "title": "병원 진료",
+        "memo": "정기 지출",
+        "amount": 71960
+      },
+      {
+        "id": 1073,
+        "userId": 24,
+        "type": "income",
+        "date": "2024-12-31",
+        "category": "기타",
+        "title": "알바비",
+        "memo": "시급 정산",
+        "amount": 106891
+      },
+      {
+        "id": 1074,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-29",
+        "category": "식비",
+        "title": "월세 납부",
+        "memo": "쿠폰 사용",
+        "amount": 38383
+      },
+      {
+        "id": 1075,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-29",
+        "category": "교통",
+        "title": "월세 납부",
+        "memo": "무통장 이체",
+        "amount": 85349
+      },
+      {
+        "id": 1076,
+        "userId": 24,
+        "type": "income",
+        "date": "2024-12-29",
+        "category": "기타",
+        "title": "부수입",
+        "memo": "지인 거래",
+        "amount": 98273
+      },
+      {
+        "id": 1077,
+        "userId": 24,
+        "type": "income",
+        "date": "2024-12-29",
+        "category": "기타",
+        "title": "알바비",
+        "memo": "시급 정산",
+        "amount": 179667
+      },
+      {
+        "id": 1078,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-27",
+        "category": "식비",
+        "title": "병원 진료",
+        "memo": "현금 사용",
+        "amount": 46139
+      },
+      {
+        "id": 1079,
+        "userId": 24,
+        "type": "income",
+        "date": "2024-12-27",
+        "category": "기타",
+        "title": "부수입",
+        "memo": "지인 거래",
+        "amount": 90515
+      },
+      {
+        "id": 1080,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-26",
+        "category": "교육",
+        "title": "병원 진료",
+        "memo": "간편결제",
+        "amount": 86097
+      },
+      {
+        "id": 1081,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-25",
+        "category": "기타",
+        "title": "병원 진료",
+        "memo": "간편결제",
+        "amount": 80864
+      },
+      {
+        "id": 1082,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-24",
+        "category": "식비",
+        "title": "기타 지출",
+        "memo": "정기 지출",
+        "amount": 43012
+      },
+      {
+        "id": 1083,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-23",
+        "category": "주거",
+        "title": "기타 지출",
+        "memo": "카드 결제",
+        "amount": 72467
+      },
+      {
+        "id": 1084,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-21",
+        "category": "여가",
+        "title": "기타 지출",
+        "memo": "현금 사용",
+        "amount": 93246
+      },
+      {
+        "id": 1085,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-20",
+        "category": "쇼핑",
+        "title": "점심 식사",
+        "memo": "무통장 이체",
+        "amount": 71423
+      },
+      {
+        "id": 1086,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-18",
+        "category": "교육",
+        "title": "지하철 이용",
+        "memo": "무통장 이체",
+        "amount": 52594
+      },
+      {
+        "id": 1087,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-18",
+        "category": "기타",
+        "title": "월세 납부",
+        "memo": "쿠폰 사용",
+        "amount": 99896
+      },
+      {
+        "id": 1088,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-15",
+        "category": "교육",
+        "title": "영화 관람",
+        "memo": "카드 결제",
+        "amount": 81773
+      },
+      {
+        "id": 1089,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-14",
+        "category": "여가",
+        "title": "지하철 이용",
+        "memo": "앱 결제",
+        "amount": 46110
+      },
+      {
+        "id": 1090,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-11",
+        "category": "주거",
+        "title": "온라인 강의",
+        "memo": "앱 결제",
+        "amount": 85282
+      },
+      {
+        "id": 1091,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-11",
+        "category": "의료",
+        "title": "의류 구매",
+        "memo": "앱 결제",
+        "amount": 97497
+      },
+      {
+        "id": 1092,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-09",
+        "category": "주거",
+        "title": "지하철 이용",
+        "memo": "예상 외 지출",
+        "amount": 80403
+      },
+      {
+        "id": 1093,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-09",
+        "category": "식비",
+        "title": "월세 납부",
+        "memo": "앱 결제",
+        "amount": 12353
+      },
+      {
+        "id": 1094,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-09",
+        "category": "주거",
+        "title": "의류 구매",
+        "memo": "현금 사용",
+        "amount": 24517
+      },
+      {
+        "id": 1095,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-07",
+        "category": "식비",
+        "title": "병원 진료",
+        "memo": "쿠폰 사용",
+        "amount": 89613
+      },
+      {
+        "id": 1096,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-06",
+        "category": "주거",
+        "title": "월세 납부",
+        "memo": "카드 결제",
+        "amount": 20239
+      },
+      {
+        "id": 1097,
+        "userId": 24,
+        "type": "income",
+        "date": "2024-12-05",
+        "category": "기타",
+        "title": "부수입",
+        "memo": "지인 거래",
+        "amount": 97164
+      },
+      {
+        "id": 1098,
+        "userId": 24,
+        "type": "income",
+        "date": "2024-12-03",
+        "category": "급여",
+        "title": "월급",
+        "memo": "회사 급여",
+        "amount": 3200000
+      },
+      {
+        "id": 1099,
+        "userId": 24,
+        "type": "expense",
+        "date": "2024-12-01",
+        "category": "쇼핑",
+        "title": "영화 관람",
+        "memo": "카드 결제",
+        "amount": 32620
+      }
+    ],
+    {
+      "type": "expense",
+      "date": "2025-04-01",
+      "amount": 50000,
+      "category": "주거비",
+      "title": "월세",
+      "memo": "메모",
+      "userId": "24",
+      "id": 383
+    },
+    {
+      "id": 1002,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-08",
+      "category": "의료",
+      "title": "기타 지출",
+      "memo": "앱 결제",
+      "amount": 107248
+    },
+    {
+      "id": 1081,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-25",
+      "category": "기타",
+      "title": "병원 진료",
+      "memo": "간편결제",
+      "amount": 80864
+    },
+    {
+      "id": 1000,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-10",
+      "category": "식비",
+      "title": "병원 진료",
+      "memo": "간편결제",
+      "amount": 116367
+    },
+    {
+      "id": 1001,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-09",
+      "category": "식비",
+      "title": "지하철 이용",
+      "memo": "카드 결제",
+      "amount": 20997
+    },
+    {
+      "id": 1004,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-05",
+      "category": "기타",
+      "title": "지하철 이용",
+      "memo": "현금 사용",
+      "amount": 111752
+    },
+    {
+      "id": 1005,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-04",
+      "category": "주거",
+      "title": "의류 구매",
+      "memo": "현금 사용",
+      "amount": 79254
+    },
+    {
+      "id": 1006,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-03",
+      "category": "식비",
+      "title": "지하철 이용",
+      "memo": "간편결제",
+      "amount": 41929
+    },
+    {
+      "id": 1007,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-04-01",
+      "category": "쇼핑",
+      "title": "병원 진료",
+      "memo": "무통장 이체",
+      "amount": 88461
+    },
+    {
+      "id": 1008,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-30",
+      "category": "기타",
+      "title": "병원 진료",
+      "memo": "현금 사용",
+      "amount": 23633
+    },
+    {
+      "id": 1009,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-03-28",
+      "category": "급여",
+      "title": "월급",
+      "memo": "회사 급여",
+      "amount": 3200000
+    },
+    {
+      "id": 1010,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-03-28",
+      "category": "기타",
+      "title": "알바비",
+      "memo": "시급 정산",
+      "amount": 138726
+    },
+    {
+      "id": 1011,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-27",
+      "category": "주거",
+      "title": "점심 식사",
+      "memo": "무통장 이체",
+      "amount": 93132
+    },
+    {
+      "id": 1012,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-27",
+      "category": "여가",
+      "title": "영화 관람",
+      "memo": "예상 외 지출",
+      "amount": 92928
+    },
+    {
+      "id": 1013,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-22",
+      "category": "식비",
+      "title": "월세 납부",
+      "memo": "쿠폰 사용",
+      "amount": 70981
+    },
+    {
+      "id": 1014,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-19",
+      "category": "식비",
+      "title": "영화 관람",
+      "memo": "무통장 이체",
+      "amount": 78781
+    },
+    {
+      "id": 1015,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-19",
+      "category": "쇼핑",
+      "title": "월세 납부",
+      "memo": "카드 결제",
+      "amount": 114721
+    },
+    {
+      "id": 1016,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-18",
+      "category": "교육",
+      "title": "온라인 강의",
+      "memo": "앱 결제",
+      "amount": 113759
+    },
+    {
+      "id": 1017,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-14",
+      "category": "교육",
+      "title": "병원 진료",
+      "memo": "쿠폰 사용",
+      "amount": 31859
+    },
+    {
+      "id": 1019,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-03-12",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 92436
+    },
+    {
+      "id": 1020,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-03-12",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 82065
+    },
+    {
+      "id": 1021,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-03-12",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 85305
+    },
+    {
+      "id": 1022,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-03-11",
+      "category": "주거",
+      "title": "점심 식사",
+      "memo": "쿠폰 사용",
+      "amount": 25244
+    },
+    {
+      "id": 1034,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-23",
+      "category": "교육",
+      "title": "기타 지출",
+      "memo": "쿠폰 사용",
+      "amount": 33266
+    },
+    {
+      "id": 1035,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-23",
+      "category": "의료",
+      "title": "지하철 이용",
+      "memo": "카드 결제",
+      "amount": 102215
+    },
+    {
+      "id": 1036,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-19",
+      "category": "주거",
+      "title": "기타 지출",
+      "memo": "현금 사용",
+      "amount": 24991
+    },
+    {
+      "id": 1037,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-17",
+      "category": "식비",
+      "title": "기타 지출",
+      "memo": "쿠폰 사용",
+      "amount": 61561
+    },
+    {
+      "id": 1038,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-15",
+      "category": "쇼핑",
+      "title": "의류 구매",
+      "memo": "현금 사용",
+      "amount": 26518
+    },
+    {
+      "id": 1039,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-02-13",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 99153
+    },
+    {
+      "id": 1040,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-02-12",
+      "category": "주거",
+      "title": "의류 구매",
+      "memo": "간편결제",
+      "amount": 78341
+    },
+    {
+      "id": 1041,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-02-11",
+      "category": "급여",
+      "title": "월급",
+      "memo": "회사 급여",
+      "amount": 3200000
+    },
+    {
+      "id": 1053,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-23",
+      "category": "쇼핑",
+      "title": "지하철 이용",
+      "memo": "현금 사용",
+      "amount": 31186
+    },
+    {
+      "id": 1054,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-21",
+      "category": "교통",
+      "title": "온라인 강의",
+      "memo": "정기 지출",
+      "amount": 28272
+    },
+    {
+      "id": 1055,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-20",
+      "category": "식비",
+      "title": "영화 관람",
+      "memo": "쿠폰 사용",
+      "amount": 52484
+    },
+    {
+      "id": 1056,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-15",
+      "category": "교육",
+      "title": "지하철 이용",
+      "memo": "정기 지출",
+      "amount": 116847
+    },
+    {
+      "id": 1057,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-13",
+      "category": "교통",
+      "title": "지하철 이용",
+      "memo": "앱 결제",
+      "amount": 74838
+    },
+    {
+      "id": 1058,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-13",
+      "category": "주거",
+      "title": "점심 식사",
+      "memo": "예상 외 지출",
+      "amount": 100977
+    },
+    {
+      "id": 1059,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-11",
+      "category": "교통",
+      "title": "의류 구매",
+      "memo": "예상 외 지출",
+      "amount": 110219
+    },
+    {
+      "id": 1060,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-11",
+      "category": "여가",
+      "title": "기타 지출",
+      "memo": "카드 결제",
+      "amount": 18968
+    },
+    {
+      "id": 1061,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-01-11",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 83970
+    },
+    {
+      "id": 1062,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-09",
+      "category": "주거",
+      "title": "지하철 이용",
+      "memo": "현금 사용",
+      "amount": 117677
+    },
+    {
+      "id": 1067,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-07",
+      "category": "교육",
+      "title": "점심 식사",
+      "memo": "예상 외 지출",
+      "amount": 112929
+    },
+    {
+      "id": 1068,
+      "userId": 24,
+      "type": "income",
+      "date": "2025-01-03",
+      "category": "급여",
+      "title": "월급",
+      "memo": "회사 급여",
+      "amount": 3200000
+    },
+    {
+      "id": 1070,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-02",
+      "category": "주거",
+      "title": "기타 지출",
+      "memo": "예상 외 지출",
+      "amount": 99216
+    },
+    {
+      "id": 1071,
+      "userId": 24,
+      "type": "expense",
+      "date": "2025-01-01",
+      "category": "기타",
+      "title": "기타 지출",
+      "memo": "앱 결제",
+      "amount": 82255
+    },
+    {
+      "id": 1082,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-24",
+      "category": "식비",
+      "title": "기타 지출",
+      "memo": "정기 지출",
+      "amount": 43012
+    },
+    {
+      "id": 1083,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-23",
+      "category": "주거",
+      "title": "기타 지출",
+      "memo": "카드 결제",
+      "amount": 72467
+    },
+    {
+      "id": 1084,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-21",
+      "category": "여가",
+      "title": "기타 지출",
+      "memo": "현금 사용",
+      "amount": 93246
+    },
+    {
+      "id": 1085,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-20",
+      "category": "쇼핑",
+      "title": "점심 식사",
+      "memo": "무통장 이체",
+      "amount": 71423
+    },
+    {
+      "id": 1086,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-18",
+      "category": "교육",
+      "title": "지하철 이용",
+      "memo": "무통장 이체",
+      "amount": 52594
+    },
+    {
+      "id": 1087,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-18",
+      "category": "기타",
+      "title": "월세 납부",
+      "memo": "쿠폰 사용",
+      "amount": 99896
+    },
+    {
+      "id": 1088,
+      "userId": 24,
+      "type": "expense",
+      "date": "2024-12-15",
+      "category": "교육",
+      "title": "영화 관람",
+      "memo": "카드 결제",
+      "amount": 81773
+    },
+    {
+      "id": 1098,
+      "userId": 24,
+      "type": "income",
+      "date": "2024-12-03",
+      "category": "급여",
+      "title": "월급",
+      "memo": "회사 급여",
+      "amount": 3200000
+    },
+    {
+      "id": 1097,
+      "userId": 24,
+      "type": "income",
+      "date": "2024-12-05",
+      "category": "기타",
+      "title": "부수입",
+      "memo": "지인 거래",
+      "amount": 97164
+    },
+    {
+      "type": "income",
+      "date": "2025-04-01",
+      "amount": 2000000,
+      "category": "판매수익",
+      "title": "주식",
+      "memo": "야호",
+      "userId": "11",
+      "id": 1099
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-18",
+      "amount": 1000000,
+      "category": "주거비",
+      "title": "월세",
+      "memo": "지난번보다 10만원 오름",
+      "userId": "26",
+      "id": 1100
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-17",
+      "amount": 100000,
+      "category": "교통비",
+      "title": "123123",
+      "memo": "",
+      "userId": null,
+      "id": 1101
+    },
+    {
+      "type": "income",
+      "date": "2025-04-10",
+      "amount": 50000,
+      "category": "용돈",
+      "title": "5월달 용돈",
+      "memo": "아껴써야지",
+      "userId": "26",
+      "id": 1102
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-18",
+      "amount": 2000,
+      "category": "식비",
+      "title": "오소리",
+      "memo": "초고 소금빵",
+      "userId": "26",
+      "id": 1103
+    },
+    {
+      "type": "income",
+      "date": "2025-04-25",
+      "amount": 1000000,
+      "category": "판매수익",
+      "title": "로또",
+      "memo": "3등 당첨",
+      "userId": "28",
+      "id": 1104
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-01",
+      "amount": 2000000,
+      "category": "기타",
+      "title": "월급",
+      "memo": "월급",
+      "userId": "29",
+      "id": 1105
+    },
+    {
+      "type": "income",
+      "date": "2025-04-03",
+      "amount": 2000000,
+      "category": "급여",
+      "title": "월급",
+      "memo": "월급",
+      "userId": "24",
+      "id": 1106
+    },
+    {
+      "type": "expense",
+      "date": "2024-12-04",
+      "amount": 10000,
+      "category": "식비",
+      "title": "d",
+      "memo": "d",
+      "userId": "24",
+      "id": 1107
+    },
+    {
+      "type": "expense",
+      "date": "2025-04-04",
+      "amount": 10000,
+      "category": "교통비",
+      "title": "교통비",
+      "memo": "ㅇ",
+      "userId": "24",
+      "id": 1108
     }
   ],
   "subscriptions": [
@@ -3080,7 +5539,8 @@
       "name": "운동",
       "price": 43116,
       "dueDate": 23,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 2,
@@ -3088,7 +5548,8 @@
       "name": "게임패스",
       "price": 11686,
       "dueDate": 24,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 3,
@@ -3096,7 +5557,8 @@
       "name": "통신비",
       "price": 23572,
       "dueDate": 28,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 4,
@@ -3104,7 +5566,8 @@
       "name": "운동",
       "price": 10587,
       "dueDate": 2,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 5,
@@ -3112,7 +5575,8 @@
       "name": "OTT",
       "price": 22202,
       "dueDate": 10,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 6,
@@ -3120,7 +5584,8 @@
       "name": "통신비",
       "price": 12745,
       "dueDate": 17,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 7,
@@ -3128,7 +5593,8 @@
       "name": "OTT",
       "price": 15718,
       "dueDate": 3,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 8,
@@ -3136,7 +5602,8 @@
       "name": "OTT",
       "price": 23985,
       "dueDate": 10,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 9,
@@ -3144,7 +5611,8 @@
       "name": "YouTube Premium",
       "price": 42616,
       "dueDate": 17,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 10,
@@ -3152,7 +5620,8 @@
       "name": "운동",
       "price": 11901,
       "dueDate": 14,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 11,
@@ -3160,7 +5629,8 @@
       "name": "게임패스",
       "price": 23259,
       "dueDate": 10,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 12,
@@ -3168,7 +5638,8 @@
       "name": "통신비",
       "price": 42239,
       "dueDate": 21,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 13,
@@ -3176,7 +5647,8 @@
       "name": "YouTube Premium",
       "price": 13080,
       "dueDate": 23,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 14,
@@ -3184,7 +5656,8 @@
       "name": "게임패스",
       "price": 31294,
       "dueDate": 19,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 15,
@@ -3192,7 +5665,8 @@
       "name": "YouTube Premium",
       "price": 41674,
       "dueDate": 22,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 16,
@@ -3200,7 +5674,8 @@
       "name": "통신비",
       "price": 46426,
       "dueDate": 16,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 17,
@@ -3208,7 +5683,8 @@
       "name": "YouTube Premium",
       "price": 36242,
       "dueDate": 16,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 18,
@@ -3216,7 +5692,8 @@
       "name": "통신비",
       "price": 37290,
       "dueDate": 21,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 19,
@@ -3224,7 +5701,8 @@
       "name": "게임패스",
       "price": 24672,
       "dueDate": 5,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 20,
@@ -3232,7 +5710,8 @@
       "name": "Netflix",
       "price": 45707,
       "dueDate": 7,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 21,
@@ -3240,7 +5719,8 @@
       "name": "통신비",
       "price": 35902,
       "dueDate": 13,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 22,
@@ -3248,7 +5728,8 @@
       "name": "OTT",
       "price": 39526,
       "dueDate": 3,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 23,
@@ -3256,7 +5737,8 @@
       "name": "독서",
       "price": 48844,
       "dueDate": 13,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 24,
@@ -3264,7 +5746,8 @@
       "name": "통신비",
       "price": 7698,
       "dueDate": 4,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 25,
@@ -3272,7 +5755,8 @@
       "name": "Netflix",
       "price": 22716,
       "dueDate": 28,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 26,
@@ -3280,7 +5764,8 @@
       "name": "독서",
       "price": 19856,
       "dueDate": 5,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 27,
@@ -3288,7 +5773,8 @@
       "name": "통신비",
       "price": 17530,
       "dueDate": 4,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 28,
@@ -3296,7 +5782,8 @@
       "name": "게임패스",
       "price": 26639,
       "dueDate": 13,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 29,
@@ -3304,7 +5791,8 @@
       "name": "통신비",
       "price": 32637,
       "dueDate": 21,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 30,
@@ -3312,7 +5800,8 @@
       "name": "YouTube Premium",
       "price": 34313,
       "dueDate": 23,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 31,
@@ -3320,7 +5809,8 @@
       "name": "운동",
       "price": 25714,
       "dueDate": 5,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 32,
@@ -3328,7 +5818,8 @@
       "name": "YouTube Premium",
       "price": 34106,
       "dueDate": 12,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 33,
@@ -3336,7 +5827,8 @@
       "name": "게임패스",
       "price": 37240,
       "dueDate": 13,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 34,
@@ -3344,7 +5836,8 @@
       "name": "OTT",
       "price": 17857,
       "dueDate": 15,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 35,
@@ -3352,7 +5845,8 @@
       "name": "운동",
       "price": 8263,
       "dueDate": 13,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 36,
@@ -3360,7 +5854,8 @@
       "name": "YouTube Premium",
       "price": 46495,
       "dueDate": 3,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 37,
@@ -3368,7 +5863,8 @@
       "name": "통신비",
       "price": 8734,
       "dueDate": 24,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 38,
@@ -3376,7 +5872,8 @@
       "name": "YouTube Premium",
       "price": 45028,
       "dueDate": 10,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 39,
@@ -3384,7 +5881,8 @@
       "name": "Netflix",
       "price": 38562,
       "dueDate": 25,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 40,
@@ -3392,7 +5890,8 @@
       "name": "OTT",
       "price": 28138,
       "dueDate": 14,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 41,
@@ -3400,7 +5899,8 @@
       "name": "Netflix",
       "price": 46410,
       "dueDate": 23,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 42,
@@ -3408,7 +5908,8 @@
       "name": "독서",
       "price": 47500,
       "dueDate": 18,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 43,
@@ -3416,7 +5917,8 @@
       "name": "운동",
       "price": 34792,
       "dueDate": 16,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 44,
@@ -3424,7 +5926,8 @@
       "name": "독서",
       "price": 36172,
       "dueDate": 7,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 45,
@@ -3432,7 +5935,8 @@
       "name": "통신비",
       "price": 7767,
       "dueDate": 2,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 46,
@@ -3440,7 +5944,8 @@
       "name": "YouTube Premium",
       "price": 27924,
       "dueDate": 1,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 47,
@@ -3448,7 +5953,8 @@
       "name": "독서",
       "price": 5467,
       "dueDate": 5,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 48,
@@ -3456,7 +5962,8 @@
       "name": "OTT",
       "price": 33032,
       "dueDate": 22,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 49,
@@ -3464,7 +5971,8 @@
       "name": "운동",
       "price": 30985,
       "dueDate": 18,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 50,
@@ -3472,7 +5980,8 @@
       "name": "게임패스",
       "price": 17638,
       "dueDate": 11,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 51,
@@ -3480,7 +5989,8 @@
       "name": "Netflix",
       "price": 44738,
       "dueDate": 3,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 52,
@@ -3488,7 +5998,8 @@
       "name": "통신비",
       "price": 40120,
       "dueDate": 15,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 53,
@@ -3496,7 +6007,8 @@
       "name": "통신비",
       "price": 6889,
       "dueDate": 17,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 54,
@@ -3504,7 +6016,8 @@
       "name": "YouTube Premium",
       "price": 29163,
       "dueDate": 3,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 55,
@@ -3512,7 +6025,8 @@
       "name": "OTT",
       "price": 39374,
       "dueDate": 12,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 56,
@@ -3520,7 +6034,8 @@
       "name": "OTT",
       "price": 18213,
       "dueDate": 9,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 57,
@@ -3528,7 +6043,8 @@
       "name": "통신비",
       "price": 38875,
       "dueDate": 28,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 58,
@@ -3536,7 +6052,8 @@
       "name": "통신비",
       "price": 36593,
       "dueDate": 12,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 59,
@@ -3544,7 +6061,8 @@
       "name": "Netflix",
       "price": 25041,
       "dueDate": 18,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 60,
@@ -3552,7 +6070,8 @@
       "name": "Netflix",
       "price": 35207,
       "dueDate": 16,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 61,
@@ -3560,7 +6079,8 @@
       "name": "Netflix",
       "price": 32008,
       "dueDate": 16,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 62,
@@ -3568,7 +6088,8 @@
       "name": "게임패스",
       "price": 12741,
       "dueDate": 3,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 63,
@@ -3576,7 +6097,8 @@
       "name": "YouTube Premium",
       "price": 11470,
       "dueDate": 27,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 64,
@@ -3584,7 +6106,8 @@
       "name": "게임패스",
       "price": 18989,
       "dueDate": 15,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 65,
@@ -3592,7 +6115,8 @@
       "name": "Netflix",
       "price": 32979,
       "dueDate": 18,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 66,
@@ -3600,7 +6124,8 @@
       "name": "Netflix",
       "price": 16821,
       "dueDate": 8,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 67,
@@ -3608,7 +6133,8 @@
       "name": "YouTube Premium",
       "price": 13394,
       "dueDate": 27,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 68,
@@ -3616,7 +6142,8 @@
       "name": "통신비",
       "price": 25945,
       "dueDate": 14,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 69,
@@ -3624,7 +6151,8 @@
       "name": "운동",
       "price": 23710,
       "dueDate": 20,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 70,
@@ -3632,7 +6160,8 @@
       "name": "OTT",
       "price": 18184,
       "dueDate": 23,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 71,
@@ -3640,7 +6169,8 @@
       "name": "OTT",
       "price": 33952,
       "dueDate": 17,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 72,
@@ -3648,7 +6178,8 @@
       "name": "게임패스",
       "price": 40138,
       "dueDate": 21,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 73,
@@ -3656,7 +6187,8 @@
       "name": "통신비",
       "price": 20190,
       "dueDate": 1,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 74,
@@ -3664,7 +6196,8 @@
       "name": "운동",
       "price": 11481,
       "dueDate": 6,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 75,
@@ -3672,7 +6205,8 @@
       "name": "YouTube Premium",
       "price": 19291,
       "dueDate": 10,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 76,
@@ -3680,7 +6214,8 @@
       "name": "독서",
       "price": 40096,
       "dueDate": 17,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 77,
@@ -3688,7 +6223,8 @@
       "name": "OTT",
       "price": 8261,
       "dueDate": 4,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 78,
@@ -3696,7 +6232,8 @@
       "name": "독서",
       "price": 22857,
       "dueDate": 4,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 79,
@@ -3704,7 +6241,8 @@
       "name": "통신비",
       "price": 20044,
       "dueDate": 22,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 80,
@@ -3712,7 +6250,8 @@
       "name": "독서",
       "price": 23492,
       "dueDate": 8,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 81,
@@ -3720,7 +6259,8 @@
       "name": "Netflix",
       "price": 38957,
       "dueDate": 10,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 82,
@@ -3728,7 +6268,8 @@
       "name": "YouTube Premium",
       "price": 29457,
       "dueDate": 21,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 83,
@@ -3736,7 +6277,8 @@
       "name": "통신비",
       "price": 43145,
       "dueDate": 6,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 84,
@@ -3744,7 +6286,8 @@
       "name": "OTT",
       "price": 6015,
       "dueDate": 18,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 85,
@@ -3752,7 +6295,8 @@
       "name": "통신비",
       "price": 29050,
       "dueDate": 19,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 86,
@@ -3760,7 +6304,8 @@
       "name": "OTT",
       "price": 13508,
       "dueDate": 13,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 87,
@@ -3768,15 +6313,17 @@
       "name": "YouTube Premium",
       "price": 38454,
       "dueDate": 3,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
-      "id": 88,
-      "userId": 3,
       "name": "OTT",
       "price": 18533,
       "dueDate": 26,
-      "category": "구독"
+      "category": "구독",
+      "icon": "",
+      "userId": "3",
+      "id": 88
     },
     {
       "id": 89,
@@ -3784,7 +6331,8 @@
       "name": "운동",
       "price": 18989,
       "dueDate": 8,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 90,
@@ -3792,7 +6340,8 @@
       "name": "OTT",
       "price": 20315,
       "dueDate": 25,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 91,
@@ -3800,7 +6349,8 @@
       "name": "통신비",
       "price": 44878,
       "dueDate": 19,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 92,
@@ -3808,7 +6358,8 @@
       "name": "독서",
       "price": 37667,
       "dueDate": 4,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 93,
@@ -3816,7 +6367,8 @@
       "name": "OTT",
       "price": 6704,
       "dueDate": 17,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 94,
@@ -3824,7 +6376,8 @@
       "name": "통신비",
       "price": 37060,
       "dueDate": 15,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 95,
@@ -3832,7 +6385,8 @@
       "name": "Netflix",
       "price": 19422,
       "dueDate": 18,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 96,
@@ -3840,7 +6394,8 @@
       "name": "독서",
       "price": 37420,
       "dueDate": 26,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 97,
@@ -3848,7 +6403,8 @@
       "name": "운동",
       "price": 25574,
       "dueDate": 23,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 98,
@@ -3856,7 +6412,8 @@
       "name": "통신비",
       "price": 14007,
       "dueDate": 20,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 99,
@@ -3864,7 +6421,8 @@
       "name": "독서",
       "price": 17521,
       "dueDate": 27,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 100,
@@ -3872,7 +6430,8 @@
       "name": "OTT",
       "price": 24118,
       "dueDate": 13,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 101,
@@ -3880,7 +6439,8 @@
       "name": "YouTube Premium",
       "price": 7509,
       "dueDate": 11,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 102,
@@ -3888,7 +6448,8 @@
       "name": "통신비",
       "price": 33914,
       "dueDate": 22,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 103,
@@ -3896,7 +6457,8 @@
       "name": "통신비",
       "price": 27555,
       "dueDate": 22,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 104,
@@ -3904,7 +6466,8 @@
       "name": "통신비",
       "price": 6112,
       "dueDate": 12,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 105,
@@ -3912,7 +6475,8 @@
       "name": "운동",
       "price": 8813,
       "dueDate": 24,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 106,
@@ -3920,7 +6484,8 @@
       "name": "통신비",
       "price": 6440,
       "dueDate": 16,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 107,
@@ -3928,7 +6493,8 @@
       "name": "Netflix",
       "price": 20824,
       "dueDate": 2,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 108,
@@ -3936,7 +6502,8 @@
       "name": "YouTube Premium",
       "price": 47852,
       "dueDate": 11,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 109,
@@ -3944,7 +6511,8 @@
       "name": "OTT",
       "price": 9089,
       "dueDate": 12,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 110,
@@ -3952,7 +6520,8 @@
       "name": "YouTube Premium",
       "price": 19190,
       "dueDate": 15,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 111,
@@ -3960,7 +6529,8 @@
       "name": "YouTube Premium",
       "price": 28464,
       "dueDate": 10,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 112,
@@ -3968,7 +6538,8 @@
       "name": "독서",
       "price": 26549,
       "dueDate": 24,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 113,
@@ -3976,7 +6547,8 @@
       "name": "게임패스",
       "price": 5631,
       "dueDate": 14,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 114,
@@ -3984,7 +6556,8 @@
       "name": "운동",
       "price": 39821,
       "dueDate": 26,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 115,
@@ -3992,7 +6565,8 @@
       "name": "OTT",
       "price": 7748,
       "dueDate": 19,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 116,
@@ -4000,7 +6574,8 @@
       "name": "게임패스",
       "price": 30578,
       "dueDate": 6,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 117,
@@ -4008,7 +6583,8 @@
       "name": "운동",
       "price": 14058,
       "dueDate": 20,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 118,
@@ -4016,7 +6592,8 @@
       "name": "OTT",
       "price": 14710,
       "dueDate": 3,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 119,
@@ -4024,7 +6601,8 @@
       "name": "YouTube Premium",
       "price": 16552,
       "dueDate": 8,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 120,
@@ -4032,7 +6610,8 @@
       "name": "OTT",
       "price": 16065,
       "dueDate": 24,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 121,
@@ -4040,7 +6619,8 @@
       "name": "YouTube Premium",
       "price": 10143,
       "dueDate": 14,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 122,
@@ -4048,7 +6628,8 @@
       "name": "Netflix",
       "price": 45665,
       "dueDate": 21,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 123,
@@ -4056,7 +6637,8 @@
       "name": "독서",
       "price": 14835,
       "dueDate": 20,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 124,
@@ -4064,7 +6646,8 @@
       "name": "Netflix",
       "price": 21546,
       "dueDate": 11,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 125,
@@ -4072,7 +6655,8 @@
       "name": "Netflix",
       "price": 46010,
       "dueDate": 2,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 126,
@@ -4080,7 +6664,8 @@
       "name": "Netflix",
       "price": 28485,
       "dueDate": 10,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 127,
@@ -4088,7 +6673,8 @@
       "name": "게임패스",
       "price": 20476,
       "dueDate": 17,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 128,
@@ -4096,7 +6682,8 @@
       "name": "YouTube Premium",
       "price": 31523,
       "dueDate": 11,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 129,
@@ -4104,7 +6691,8 @@
       "name": "OTT",
       "price": 37264,
       "dueDate": 13,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 130,
@@ -4112,7 +6700,8 @@
       "name": "통신비",
       "price": 39756,
       "dueDate": 10,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 131,
@@ -4120,7 +6709,8 @@
       "name": "게임패스",
       "price": 7289,
       "dueDate": 25,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 132,
@@ -4128,7 +6718,8 @@
       "name": "운동",
       "price": 41182,
       "dueDate": 9,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 133,
@@ -4136,7 +6727,8 @@
       "name": "게임패스",
       "price": 30890,
       "dueDate": 24,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 134,
@@ -4144,7 +6736,8 @@
       "name": "게임패스",
       "price": 27714,
       "dueDate": 16,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 135,
@@ -4152,7 +6745,8 @@
       "name": "Netflix",
       "price": 22894,
       "dueDate": 24,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 136,
@@ -4160,7 +6754,8 @@
       "name": "통신비",
       "price": 49612,
       "dueDate": 22,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 137,
@@ -4168,7 +6763,8 @@
       "name": "독서",
       "price": 23990,
       "dueDate": 22,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 138,
@@ -4176,7 +6772,8 @@
       "name": "OTT",
       "price": 39686,
       "dueDate": 17,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 139,
@@ -4184,7 +6781,8 @@
       "name": "게임패스",
       "price": 21425,
       "dueDate": 7,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 140,
@@ -4192,7 +6790,8 @@
       "name": "운동",
       "price": 26590,
       "dueDate": 26,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 141,
@@ -4200,7 +6799,8 @@
       "name": "운동",
       "price": 49162,
       "dueDate": 24,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 142,
@@ -4208,7 +6808,8 @@
       "name": "독서",
       "price": 28157,
       "dueDate": 6,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 143,
@@ -4216,7 +6817,8 @@
       "name": "통신비",
       "price": 5595,
       "dueDate": 19,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 144,
@@ -4224,7 +6826,8 @@
       "name": "운동",
       "price": 15234,
       "dueDate": 12,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 145,
@@ -4232,7 +6835,8 @@
       "name": "통신비",
       "price": 46006,
       "dueDate": 10,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 146,
@@ -4240,7 +6844,8 @@
       "name": "게임패스",
       "price": 31454,
       "dueDate": 20,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 147,
@@ -4248,7 +6853,8 @@
       "name": "YouTube Premium",
       "price": 5066,
       "dueDate": 26,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 148,
@@ -4256,7 +6862,8 @@
       "name": "운동",
       "price": 7857,
       "dueDate": 15,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 149,
@@ -4264,7 +6871,8 @@
       "name": "통신비",
       "price": 5610,
       "dueDate": 24,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 150,
@@ -4272,7 +6880,8 @@
       "name": "독서",
       "price": 48439,
       "dueDate": 25,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 151,
@@ -4280,7 +6889,8 @@
       "name": "독서",
       "price": 45121,
       "dueDate": 7,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 152,
@@ -4288,7 +6898,8 @@
       "name": "운동",
       "price": 32779,
       "dueDate": 9,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 153,
@@ -4296,7 +6907,8 @@
       "name": "운동",
       "price": 16131,
       "dueDate": 3,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 154,
@@ -4304,7 +6916,8 @@
       "name": "운동",
       "price": 12212,
       "dueDate": 17,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 155,
@@ -4312,7 +6925,8 @@
       "name": "운동",
       "price": 30211,
       "dueDate": 25,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 156,
@@ -4320,7 +6934,8 @@
       "name": "통신비",
       "price": 25407,
       "dueDate": 10,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 157,
@@ -4328,7 +6943,8 @@
       "name": "게임패스",
       "price": 23378,
       "dueDate": 9,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 158,
@@ -4336,7 +6952,8 @@
       "name": "운동",
       "price": 41343,
       "dueDate": 11,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 159,
@@ -4344,7 +6961,8 @@
       "name": "YouTube Premium",
       "price": 33291,
       "dueDate": 26,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 160,
@@ -4352,7 +6970,8 @@
       "name": "OTT",
       "price": 5388,
       "dueDate": 25,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 161,
@@ -4360,7 +6979,8 @@
       "name": "YouTube Premium",
       "price": 48327,
       "dueDate": 23,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 162,
@@ -4368,7 +6988,8 @@
       "name": "게임패스",
       "price": 28654,
       "dueDate": 15,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 163,
@@ -4376,7 +6997,8 @@
       "name": "운동",
       "price": 31977,
       "dueDate": 21,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 164,
@@ -4384,7 +7006,8 @@
       "name": "OTT",
       "price": 19962,
       "dueDate": 1,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 165,
@@ -4392,7 +7015,8 @@
       "name": "운동",
       "price": 15388,
       "dueDate": 22,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 166,
@@ -4400,7 +7024,8 @@
       "name": "독서",
       "price": 28230,
       "dueDate": 21,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 167,
@@ -4408,7 +7033,8 @@
       "name": "Netflix",
       "price": 21331,
       "dueDate": 19,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 168,
@@ -4416,7 +7042,8 @@
       "name": "통신비",
       "price": 17133,
       "dueDate": 25,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 169,
@@ -4424,7 +7051,8 @@
       "name": "Netflix",
       "price": 42561,
       "dueDate": 15,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 170,
@@ -4432,7 +7060,8 @@
       "name": "독서",
       "price": 34468,
       "dueDate": 28,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 171,
@@ -4440,7 +7069,8 @@
       "name": "OTT",
       "price": 11581,
       "dueDate": 7,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 172,
@@ -4448,7 +7078,8 @@
       "name": "게임패스",
       "price": 9274,
       "dueDate": 14,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 173,
@@ -4456,7 +7087,8 @@
       "name": "통신비",
       "price": 21560,
       "dueDate": 14,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 174,
@@ -4464,7 +7096,8 @@
       "name": "운동",
       "price": 26480,
       "dueDate": 3,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 175,
@@ -4472,7 +7105,8 @@
       "name": "Netflix",
       "price": 37277,
       "dueDate": 1,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 176,
@@ -4480,7 +7114,8 @@
       "name": "YouTube Premium",
       "price": 31076,
       "dueDate": 13,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 177,
@@ -4488,7 +7123,8 @@
       "name": "OTT",
       "price": 46639,
       "dueDate": 21,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 178,
@@ -4496,7 +7132,8 @@
       "name": "독서",
       "price": 7517,
       "dueDate": 19,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 179,
@@ -4504,7 +7141,8 @@
       "name": "통신비",
       "price": 42276,
       "dueDate": 5,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 180,
@@ -4512,7 +7150,8 @@
       "name": "독서",
       "price": 23241,
       "dueDate": 11,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 181,
@@ -4520,7 +7159,8 @@
       "name": "게임패스",
       "price": 36046,
       "dueDate": 17,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 182,
@@ -4528,7 +7168,8 @@
       "name": "Netflix",
       "price": 10340,
       "dueDate": 19,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 183,
@@ -4536,7 +7177,8 @@
       "name": "통신비",
       "price": 5294,
       "dueDate": 3,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 184,
@@ -4544,7 +7186,8 @@
       "name": "독서",
       "price": 12262,
       "dueDate": 22,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 185,
@@ -4552,7 +7195,8 @@
       "name": "게임패스",
       "price": 7825,
       "dueDate": 11,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 186,
@@ -4560,7 +7204,8 @@
       "name": "통신비",
       "price": 30732,
       "dueDate": 5,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": ""
     },
     {
       "id": 187,
@@ -4568,7 +7213,8 @@
       "name": "게임패스",
       "price": 48967,
       "dueDate": 5,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 188,
@@ -4576,7 +7222,8 @@
       "name": "YouTube Premium",
       "price": 31489,
       "dueDate": 28,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 189,
@@ -4584,7 +7231,8 @@
       "name": "운동",
       "price": 8922,
       "dueDate": 6,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 190,
@@ -4592,7 +7240,8 @@
       "name": "YouTube Premium",
       "price": 36515,
       "dueDate": 23,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 191,
@@ -4600,7 +7249,8 @@
       "name": "독서",
       "price": 39053,
       "dueDate": 2,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 192,
@@ -4608,15 +7258,17 @@
       "name": "독서",
       "price": 46367,
       "dueDate": 13,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
-      "id": 193,
-      "userId": 3,
       "name": "통신비",
-      "price": 43396,
+      "price": 433961,
       "dueDate": 27,
-      "category": "고정지출"
+      "category": "고정지출",
+      "icon": "",
+      "userId": "3",
+      "id": 193
     },
     {
       "id": 194,
@@ -4624,7 +7276,8 @@
       "name": "Netflix",
       "price": 41686,
       "dueDate": 6,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 195,
@@ -4632,7 +7285,8 @@
       "name": "YouTube Premium",
       "price": 22102,
       "dueDate": 11,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 196,
@@ -4640,7 +7294,8 @@
       "name": "OTT",
       "price": 21989,
       "dueDate": 17,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 197,
@@ -4648,7 +7303,8 @@
       "name": "YouTube Premium",
       "price": 34414,
       "dueDate": 18,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 198,
@@ -4656,7 +7312,8 @@
       "name": "Netflix",
       "price": 46454,
       "dueDate": 19,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 199,
@@ -4664,7 +7321,8 @@
       "name": "독서",
       "price": 38569,
       "dueDate": 2,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
     },
     {
       "id": 200,
@@ -4672,7 +7330,328 @@
       "name": "OTT",
       "price": 9695,
       "dueDate": 7,
-      "category": "구독"
+      "category": "구독",
+      "icon": ""
+    },
+    {
+      "name": "q",
+      "price": 1,
+      "dueDate": 1,
+      "category": "수입",
+      "icon": "fa-solid fa-bookmark",
+      "userId": "12",
+      "id": 201
+    },
+    {
+      "name": "ㅇ",
+      "price": 0,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": "",
+      "userId": "12",
+      "id": 210
+    },
+    {
+      "name": "ㅇ",
+      "price": 0,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": "",
+      "userId": "12",
+      "id": 211
+    },
+    {
+      "name": "ㅇㅇㅇㅇㅇ",
+      "price": 0,
+      "dueDate": 10,
+      "category": "구독",
+      "icon": "",
+      "userId": "12",
+      "id": 212
+    },
+    {
+      "name": "d",
+      "price": 0,
+      "dueDate": 24,
+      "category": "구독",
+      "icon": "",
+      "userId": "12",
+      "id": 213
+    },
+    {
+      "name": "ads",
+      "price": 0,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": null,
+      "userId": "12",
+      "id": 222
+    },
+    {
+      "name": "ads",
+      "price": 0,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": null,
+      "userId": "12",
+      "id": 223
+    },
+    {
+      "name": "ads",
+      "price": 0,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": null,
+      "userId": "12",
+      "id": 224
+    },
+    {
+      "name": "ㅇ",
+      "price": 1,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": null,
+      "userId": "12",
+      "id": 225
+    },
+    {
+      "name": "dd",
+      "price": 33,
+      "dueDate": 1,
+      "category": "고정지출",
+      "icon": {
+        "label": "insurance",
+        "class": "fa-solid fa-gamepad",
+        "style": "color: #007007;"
+      },
+      "userId": "11",
+      "id": 226
+    },
+    {
+      "name": "ㅇ",
+      "price": 1,
+      "dueDate": "",
+      "category": "고정지출",
+      "icon": {
+        "label": "mark",
+        "class": "fa-solid fa-bookmark",
+        "style": "color: #191032;"
+      },
+      "userId": "12",
+      "id": 228
+    },
+    {
+      "name": "1",
+      "price": 1,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": null,
+      "boxColor": "#f1f9fa",
+      "dotColor": "#52a8c9",
+      "userId": "12",
+      "id": 229
+    },
+    {
+      "name": "dd",
+      "price": 1,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": {
+        "label": "mark",
+        "class": "fa-solid fa-bookmark",
+        "style": "color: #191032;"
+      },
+      "userId": "12",
+      "id": 230
+    },
+    {
+      "name": "rnrn",
+      "price": 12000,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": null,
+      "userId": "12",
+      "id": 231
+    },
+    {
+      "name": "mock",
+      "price": 0,
+      "dueDate": 2,
+      "category": "구독",
+      "icon": {
+        "label": "mark",
+        "class": "fa-solid fa-bookmark",
+        "style": "color: #191032;"
+      },
+      "userId": "3",
+      "id": 232
+    },
+    {
+      "name": "유튜브 프리미엄",
+      "price": 100,
+      "dueDate": 2,
+      "category": "구독",
+      "icon": {
+        "label": "youtube",
+        "class": "fa-brands fa-youtube",
+        "style": "color: #e61700;"
+      },
+      "userId": "3",
+      "id": 233
+    },
+    {
+      "name": "YouTube Premium",
+      "price": 13080,
+      "dueDate": 23,
+      "category": "구독",
+      "icon": "",
+      "userId": "3",
+      "id": 234
+    },
+    {
+      "name": "YouTube Premium",
+      "price": 13080,
+      "dueDate": 23,
+      "category": "구독",
+      "icon": "",
+      "userId": "3",
+      "id": 235
+    },
+    {
+      "name": "ㅇ",
+      "price": 1,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": null,
+      "userId": "3",
+      "id": 236
+    },
+    {
+      "name": "d",
+      "price": 1,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": null,
+      "userId": "3",
+      "id": 237
+    },
+    {
+      "name": "유튜브 프리미엄",
+      "price": 12000,
+      "dueDate": 12,
+      "category": "구독",
+      "icon": {
+        "label": "youtube",
+        "class": "fa-brands fa-youtube",
+        "style": "color: #e61700;"
+      },
+      "userId": "24",
+      "id": 238
+    },
+    {
+      "name": "자동차 보험",
+      "price": 40000,
+      "dueDate": 5,
+      "category": "고정지출",
+      "icon": {
+        "label": "car",
+        "class": "fa-solid fa-car",
+        "style": "color: #4909fb;"
+      },
+      "userId": "24",
+      "id": 239
+    },
+    {
+      "name": "공과금",
+      "price": 120000,
+      "dueDate": 11,
+      "category": "고정지출",
+      "icon": {
+        "label": "mark",
+        "class": "fa-solid fa-bookmark",
+        "style": "color: #191032;"
+      },
+      "userId": "24",
+      "id": 240
+    },
+    {
+      "name": "넷플릭스",
+      "price": 5500,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": null,
+      "userId": "24",
+      "id": 241
+    },
+    {
+      "name": "멜론",
+      "price": 9900,
+      "dueDate": 13,
+      "category": "구독",
+      "icon": {
+        "label": "music",
+        "class": "fa-solid fa-headphones",
+        "style": "color: #002feb;"
+      },
+      "userId": "24",
+      "id": 242
+    },
+    {
+      "name": "스팀패스",
+      "price": 12000,
+      "dueDate": 23,
+      "category": "구독",
+      "icon": {
+        "label": "insurance",
+        "class": "fa-solid fa-gamepad",
+        "style": "color: #007007;"
+      },
+      "userId": "24",
+      "id": 243
+    },
+    {
+      "name": "통신비",
+      "price": 44000,
+      "dueDate": 6,
+      "category": "고정지출",
+      "icon": {
+        "label": "phone",
+        "class": "fa-solid fa-phone",
+        "style": "color: #085941;"
+      },
+      "userId": "24",
+      "id": 244
+    },
+    {
+      "name": "KB",
+      "price": 1000,
+      "dueDate": 1,
+      "category": "구독",
+      "icon": {
+        "label": "mark",
+        "class": "fa-solid fa-bookmark",
+        "style": "color: #191032;"
+      },
+      "userId": "24",
+      "id": 245
+    },
+    {
+      "name": "mock",
+      "price": 1,
+      "dueDate": 24,
+      "category": "구독",
+      "icon": null,
+      "userId": "24",
+      "id": 246
+    },
+    {
+      "name": "사글세",
+      "price": 1000,
+      "dueDate": 4,
+      "category": "고정지출",
+      "icon": null,
+      "userId": "24",
+      "id": 247
     }
   ]
 }
